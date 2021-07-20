@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+/*
+Theme Name: JNU Blog
+
+*/
+textarea.wpcf7-form-control.wpcf7-textarea.form-control {
+    height: 75px;
+}
+
+section#archives-2 {
+    padding-bottom: 35px;
+}
+section#categories-2 {
+    padding: 40px 0;
+}
+
+form.search-form label {
+    display: none;
+}
+
+section#recent-posts-2 ul li a {
+    padding: 5px 0;
+}
+
+div#comments {
+    display: none;
+}

@@ -1,0 +1,5847 @@
+
+@media only screen and (max-width:1300px){
+    .main-menu ul li a.mm-arr {font-size:14px;}
+    
+    }
+
+
+    @media screen and (max-width:1190px) and (min-width:991px){
+		
+		
+	
+        .academic-infra ul li {
+            margin: 0 20px;
+            vertical-align: top;
+        }
+        .school-menu-list ul li {
+            margin: 0 15px;
+        }
+        .gallery-det label {
+       
+            border: 0;
+        }
+
+        section.scholarship-3.col-md-5 {
+            display: none;
+        }
+        
+        section.scholarship-3 .col-md-7 {
+            -ms-flex: 0 0 100%;
+            flex: 0 0 100%;
+            max-width: 100%;
+        }
+
+        .news-cont h2 {
+            font-size: 32px;
+            color: #fff;
+            line-height: 46px;
+        }
+        section.tell-us:after{height: 100%;}
+
+
+        .logo-panel ul li {
+        
+            padding: 10px;
+        }
+
+
+        section.placement-3 ul li {
+            display: inline-block;
+            width: 186px;
+            vertical-align: top;
+            margin-bottom: 30px;
+            position: relative;
+            margin-right: 57px;
+        }
+
+        .placement-text {
+            position: static;
+            top: 50px;
+            left: 50px;
+            background: rgb(255 255 255 /60%);
+            padding: 30px;
+            max-width: 100%;
+        }
+        section.placement-1 {
+            padding: 50px 0;
+            background: #fffdfd;
+        }
+        .social-text10 {
+            padding: 0 30px;
+        }
+        section.social-impact4 h2 {
+            font-size: 30px;
+            text-align: center;
+            margin-bottom: 0;
+       
+        }
+        section.award-panel1 {
+            background: #1F73B7;
+            margin: 100px 0 30px;
+            text-align: center;
+        }
+        section.mandatory-dis.regulatory .mandate-pdf {
+    
+            min-height: inherit;
+            width: 100%;margin: 0;
+        }
+        
+
+        section.award-panel5 p {
+            font-size: 24px;
+            color: #fff;
+            padding: 57px 84px;
+            line-height: 32px;
+            margin: 0px;
+        }
+        img.mg-50 {
+            position: relative;
+            top: 0;
+        }
+
+
+        section.about4 {
+            padding: 30px;
+        }
+
+        .why-infra-content {
+            width: 650px;
+            position: absolute;
+            top: inherit;
+            right: 50px;
+            background: rgb(24 37 72 / 60%);
+            padding: 30px;
+            z-index: 999;
+            bottom: 0;
+        }
+        .why-faculty-text {
+            width: 550px;
+        
+        }
+        .holistic-text {
+       
+            left: 0px;
+            
+        }
+
+        .exclusive-text {
+     
+            left: -241px;
+       
+        }
+
+
+        .educational-programm h5 {
+      
+            font-size: 60px;
+          
+        }
+        section.jnu-glance-2 img {
+            position: relative;
+            right: 30px;
+        }
+        .world-faculty {
+     
+            left: -150px;
+      
+        }
+
+
+        .admin-text {
+      
+            width: 520px;
+            padding: 40px;
+        }
+
+
+        section.health-saftey2 p {
+            font-size: 18px;
+            line-height: 29px;
+       
+        }
+
+        .black-bg {
+            right: 0;
+            height: inherit;}
+            section.covid-2 {
+        
+                padding: 50px 0;
+                margin-bottom: 35px;
+            }
+
+        .sports3 {
+            padding: 70px 0 0;
+        }
+        section.home-section-3.gymnasium-2 p {
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 27px;
+        }
+
+        section.home-section-3.sports2 .experience {
+            padding: 34px 1px 5px 28px;
+        }
+
+        section.home-section-3.beyond3 .experience {
+            padding: 30px 30px 0;
+        }
+        section.home-section-3.beyond3 .col-md-4 {
+            margin-bottom: 0;
+        }
+        section.home-section-3.beyond3 .experience p {
+            font-weight: normal;
+            font-size: 14px;
+        }
+        section.home-section-3.beyond3 .experience h2 {
+            font-size: 30px;
+        }
+        section.acoom-2 {
+            background: linear-gradient( 
+        0deg
+         ,rgb(255 255 255) 19%,rgb(254 246 246) 5%);
+            margin: 50px 0;
+        }
+        section.cafeteria-offer2 ul li {
+            display: inline-block;
+            color: #333;
+            margin-right: 0px;
+            border-left: 1px solid #000;
+            padding: 0px 15px;
+            font-size: 18px;
+            font-weight: bold;
+            width: 24%;
+            vertical-align: top;
+            min-height: 78px;
+        }
+        section.cafeteria-offer2 h2 {
+            color: #333;
+            font-size: 25px;
+            font-family: Merriweather,serif;
+            display: inline-block;
+            padding-right: 30px;
+            margin-right: 0px;
+        }
+
+        section.cafeteria-offer h2 {
+            line-height: 29px;
+            color: #fff;
+            font-size: 20px;
+            font-family: Merriweather,serif;
+            display: inline-block;
+            border-right: 1px solid #fff;
+            padding-right: 20px;
+            margin-right: 26px;
+        }
+        section.cafeteria-offer ul li {
+            display: inline-block;
+            color: #fff;
+            margin-right: 17px;
+            border-right: 1px solid #fff;
+            padding-right: 20px;
+            min-height: 58px;
+        }
+
+        .residence-content h4 {
+     
+            width: 62%;
+        
+        }
+        .other-room-text ul li {
+            display: inline-block;
+            vertical-align: top;
+            width: 100%;
+            margin-right: 0;
+            font-size: 20px;
+            font-weight: 400;
+            margin-bottom: 10px;
+        }
+
+        section.home-section-3.innovation_head .experience p {
+            font-size: 13px;
+            font-weight: normal;
+            line-height: 20px;
+        }
+
+        section.home-section-3.innovation_head .experience {
+            position: relative;
+            padding: 18px;
+        }
+        section.home-section-3.innovation_head .facilities-box p {
+          
+            bottom: 0px;
+            text-align: left;
+            padding: 12px;
+        }
+        .eastate {
+            padding: 50px;
+            text-align: center;
+        }
+        .eastate p {
+            display: inline-block;
+            width: 80%;
+            border-left: 0px;
+            margin: 12px 30px;
+            padding: 0 30px;
+        }
+
+        section.library-10 .table-responsive {
+            display: inline-table;}
+
+
+        .card-body.row {
+            padding:15px;
+        }
+
+        .library-campus-text1 {
+            position: absolute;
+            bottom: 0;
+            left: 50px;
+            background: rgb(255 255 255 / 92%);
+            padding: 24px;
+            width: 720px;
+            top: inherit;
+        }
+        section.library-2 .library-tab ul.nav.nav-tabs {
+            width: 100%;
+            margin: 0 auto;
+        }
+
+        .res-text1 {
+         
+            background: rgb(255 230 3 / 92%);
+ 
+        }
+
+
+
+        .rle-text ul li{vertical-align: top;}
+
+        .container.clearfix p.btn.btn-primary.last {
+    
+            left: 30px;
+        }
+        .blank-bg-3 p {
+            background: rgb(255 255 255 / 95%);
+            padding: 9px;
+            color: #000;
+        }
+
+        .text-diff {
+            font-size: 18px;
+         
+        }
+        .bg-blank2 {
+            background: #ddd;
+            width: 100%;
+            height: inherit;
+            margin-bottom: 30px;
+        }
+
+        .faculty-nav .pagination {
+            align-items: center;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .bg_faculty1 {
+            padding: 10px 15px;
+            font-size: 14px;
+        }
+
+        section.school-sylabus.other_data h2 {
+            font-size: 26px;
+            margin-top: 40px;
+        }
+        section.course-lateral ul li { width: 38%; }
+
+        .get_direction .campus-view {
+            position: relative;
+            float: left;
+            width: 100%;
+        }
+        .get_direction a{width: 100%; margin-right: 0px;}
+        ul.pagination li {
+            margin-bottom: 10px;
+        }
+
+        .academic-infra ul li h3 {
+            font-size: 40px;
+            line-height: 50px;
+            margin-bottom: 15px;
+        }
+        .who-can-text {
+            background: #FFE603;
+            padding: 30px;
+            margin: 0 0px 50px;
+            text-align: center;
+        }
+        .who-can-text h2 {
+            font-weight: bold;
+            font-size: 28px;
+            display: block;
+            margin: 0 0 20px;
+        }
+
+
+        .student-test-text {
+            padding: 0 100px;
+            margin-bottom: 40px;
+        }
+
+        .student-testimonial-slider .owl-nav button.owl-prev {
+            position: absolute;
+            left: 0;
+            top: 5%;
+        }
+
+        .student-testimonial-slider .owl-nav button.owl-next {
+            position: absolute;
+            right: 0;
+            top: 5%;
+        }
+
+        section.important-dates-1 .col-md-3 p {
+            margin: 0px;
+            font-size: 16px;
+        }
+        .dates-table .under_gra {
+            text-align: center;
+            padding: 30px 0;
+            background: #fef6f6;
+            line-height: 1.3;
+            font-size: 20px;
+        }
+
+        .carrer-accordian h4 {
+            color: #000;
+            font-size: 15px;
+            padding: 0px;
+        }
+        .announcements-accordian .card {
+            border: 0;
+            border-bottom: 0px;
+            border-radius: 0px;
+            padding: 1px 43px 1px 20px;
+        }
+        .announcements-accordian div.accordion button.btn.btn-link.collapsed:after {
+  
+            right: -40px;
+            top: 2px;
+            background-position: center;
+            transform: inherit;
+        }
+        .announcements-accordian div.accordion button:after {
+
+            top: 2px;
+            right: -40px;
+            background-position: center;
+            transform: rotate(
+        180deg
+        );
+            border-radius: 50%;
+        }
+
+
+        .syllabus-tab div#content {
+            width: 875px;
+            display: inline-block;
+            border-radius: 0px;
+        }
+
+        section.school-box4 {
+            background: #FEF6F6;
+            padding: 70px 0 40px;
+        }
+
+        li.drop-down_menu.about-menu a.mm-arr.Admissions-menu {
+            background: #DE0B5C;
+            padding-right: 25px;padding-left: 10px;
+        }
+
+        .experience h3 {
+            font-size: 52px;}
+            .experience h2 {font-size: 30px;}
+                .experience {
+                    padding: 21px 38px 0;
+                    position: relative;
+                }
+                .admission-link ul li {
+                    display: inline-block;
+                    vertical-align: top;
+                    width: 31%;
+                    margin-right: 4px;
+                }
+                .admission-link {
+                    max-width: 650px;
+                    margin-top: -39px;
+                    position: relative;
+                    z-index: 9;
+                }
+                .admission-link ul li a {
+                    color: #000;
+                    border-bottom: 1px solid rgb(221 221 221 / 44%);
+                    display: block;
+                    padding: 10px 4px 10px 13px;
+                    font-size: 14px;
+                    position: relative;
+                }
+                .main-menu ul li a.mm-arr {
+                    font-size: 13px;
+                    padding: 12px 26px 12px 26px;
+
+                }
+                .wed-logo img {
+                            width: 194px;
+                }
+                a.mm-arr:after {
+                    width: 9px;
+                    content: "";
+                    height: 8px;
+                    right: 8px;
+                    top: 18px;
+                    }
+                    li.drop-down_menu.about-menu a.Admissions-menu.mm-arr:after {
+                        right: 9px;
+                        top: 17px;
+                    }
+                    header.main-section.scrolling-navbar.top-nav-collapse .wed-logo img {
+                        max-width: 77%;
+                    }
+                    .campus-des {
+                        width: 250px;
+                        position: absolute;
+                        top: 16px;
+                        left: 19px;
+                    }
+                    .campus-des p {
+                        color: #000;
+                        font-size: 24px;
+                        line-height: 28px;
+                        font-weight: bold;
+                        margin-bottom: 19px;
+                    }
+                    .placement-carousel ul li {
+                        display: inline-block;
+                        width: 32%;
+                    }
+                    .research-box1 p {
+                        font-size: 14px;
+                    }
+                    .research-box {
+                        position: absolute;
+                        bottom: 0px;
+                        background: rgba(222, 11, 92, 1);
+                        width: 500px;
+                        padding: 10px 30px;
+                    }
+                    .happing-content2 p {
+                        margin: 20px 0;
+                        font-size: 14px;
+                        line-height: 22px;
+                    }
+                    section.home-section-7 {
+                        padding: 70px 0 0px;}
+                        .social_wall_details p {
+                            display: block;
+                            font-size: 13px;}
+                            .footer-menu {
+                                padding: 0 20px;
+                            }
+                            .footer-menu ul li a {
+                                color: rgb(255 255 255 / 71%);
+                             
+                                font-size: 12px;
+                                margin-bottom: 2px;
+                             
+                            }
+                            .footer-menu h3 {
+                         
+                                font-size: 13px;
+                                font-weight: bold;
+                                margin-bottom: 10px;
+                            }
+                            .Copyright p {
+                        
+                                margin: 0px;
+                                font-size: 12px;
+                                line-height: 23px;
+                            }
+                            .subscribe input[type="text"] {
+                        
+                                font-size: 12px;
+                            }
+                            .inner-space {
+                                padding-top: 95px;
+                            }
+                            .course-short-discrption h3 a {
+                                font-size: 22px;}
+                                .filter-school ul li a {
+                                    color: #000;
+                                    border-bottom: 1px solid #ddd;
+                                    display: block;
+                                    padding: 10px 0px 10px 0px;
+                                    font-size: 15px;
+                                }
+                                .course-short-discrption p {
+                                    margin: 0px 0 5px;
+                                    font-size: 14px;
+                                }
+                                .desk {
+                                    background: #FFE603;
+                                    padding: 30px 20px 31px 20px;
+                                }
+                                .desk a {
+                                    color: #000;
+                                    font-weight: bold;
+                                    width: 100%;
+                                    font-size: 15px;
+                                }
+                                .help-with-admission ul li {
+                                    display: inline-block;
+                                    width: 47%;
+                                    vertical-align: top;
+                                    padding: 10px 20px;
+                                    margin-right: 12px;
+                                    border-bottom: 1px solid #ddd;
+                                }
+                                .help-with-admission ul li a {
+                              font-size: 14px;
+                                }
+
+                                .news-slider button.owl-next {
+                                    float: right;
+                                }
+                                        .news-slider .owl-nav {
+                                            margin-top: 0;
+                                            position: absolute;
+                                            z-index: 9;
+                                            top: 35%;
+                                            width: 100%;
+                                        }
+                                        
+                                        .news-slider .owl-nav button span {
+                                            background: #9e9e9e;
+                                            width: 30px;
+                                            height: 30px;
+                                            display: inline-block;
+                                            padding: 10px;
+                                            box-shadow: inherit;
+                                            outline: 0;
+                                            text-indent: -9999px;
+                                            position: relative;
+                                            margin-right: 5px;
+                                            border-radius: 50%;
+                                        }
+                                        .news-slider .owl-nav button.owl-next span:after {
+                                            -webkit-transform: rotate( -140deg);
+                                            -moz-transform: rotate( -140deg);
+                                            -ms-transform: rotate( -140deg);
+                                            -o-transform: rotate( -140deg);
+                                            transform: rotate( -140deg);
+                                            right: 14px;
+                                            }
+                                        
+                                        
+                                        
+                                        .news-slider .owl-nav button  {
+                                        
+                                            box-shadow: inherit;
+                                            outline: 0;
+                                          
+                                        }
+                                        
+                                        .news-slider .owl-nav button span:after {
+                                            width: 7px;
+                                            content: "";
+                                            height: 7px;
+                                            border-left: 1px solid rgb(255 255 255)!important;
+                                            border-bottom: 1px solid rgb(255 255 255)!important;
+                                            -webkit-transform: rotate( 40deg);
+                                            -moz-transform: rotate( 40deg);
+                                            -ms-transform: rotate(40deg);
+                                            -o-transform: rotate(40deg);
+                                            transform: rotate(40deg);
+                                            position: absolute;
+                                            top: 11px;
+                                            right: 11px;
+                                            display: inline-block;
+                                            text-indent: 0px;
+                                            padding: 2px;
+                                            text-align: right;
+                                        }
+                                
+                                
+                                
+                                        section.news-1 .container {
+                                            padding: 0 20px 0 20px;
+                                            position: relative;
+                                        }
+
+                                        .card_placement p {
+                                            font-size: 27px;
+                                            line-height: 1.5;
+                                            padding-right: 85px;
+                                        }
+                                        section.placement-6 h2 {
+                                            padding: 0px 120px 120px;
+                                          
+                                        }
+                                        section.tab-importants table.table tr td {
+                                            border: 0px;
+                                            padding: 15px 5px;
+                                        }
+                                        .dates-table a {
+                                              padding: 3px 17px;
+                                              letter-spacing: 2px;
+                                          font-size: 14px;
+                                        }
+
+                                        section.about-3 ul li {
+                                            margin: 17px 25px;
+                                        }
+
+                                        section.about-3 ul {
+                                            display: flex;
+                                        
+                                            flex-wrap: wrap;
+                                        }
+
+    }
+    
+    
+    @media only screen and (max-width: 990px){
+		
+				li.nav-item-mobile.only-mobile.three_s a {
+    color: #000!important;
+    font-size: 16px!important;
+}
+li.nav-item-mobile.only-mobile.three_s {
+    background: #FFE603;
+    padding: 10px;
+    text-align: center;
+    color: #000; margin-top: 20px; 
+}
+li.nav-item-mobile.only-mobile.apply_s {
+    background: #DE0B5C;
+    padding: 10px;
+    text-align: center;
+    color: #fff !important; margin-top: 20px; 
+}
+li.nav-item-mobile.only-mobile.apply_s a{
+	color:#fff !important;
+}
+		
+		.jest_part {
+    padding: 30px;
+    background: #f2f2f2;
+    text-align: left;
+    height: auto;
+    margin: 20px 0;
+}
+
+
+        section.why-infra h2 {
+            padding: 0px 0 30px;
+   
+        }
+
+
+
+        .jnu-glance-6 {
+            padding: 40px 0px 90px;
+        }
+        
+        .jnu-top-content li {
+            margin-bottom: 22px;
+            padding-right: 0;
+        }
+
+        section.career-prospectus .bullet_list ul li {
+            width: 100%;
+        }
+
+.syllabus-tab.lab_page div#content {
+    width: 100%;
+    display: inline-block;
+    border-radius: 0px;
+}
+.syllabus-panel.lab_body {
+    margin: 0px 0px 0;
+}
+
+.syllabus-panel.lab_body p {
+    padding: 20px!important;
+}
+
+.online-chat {right:40px!important;}
+.online-chat img {
+    width: 54%!important;
+}
+.online-chat .tooltiptext {
+    font-size: 12px;
+    width: 130px!important;
+    right: 0;
+}
+
+.footer-menu h3 a {
+    color: #FFF;
+}
+
+        section.title-head blockquote.abt-pad {
+            padding: 0;
+        }
+
+        
+        .course-lateral {
+            padding: 50px 0 30px;
+        }
+
+        .col-md-12.eligible-center h3 {
+            margin-bottom: 50px;
+            margin-top: 30px;
+            color: #000;
+            text-align: center;
+        }
+
+
+        section.tab-importants .library-tab table.table tr td{width:100%; display:block;}
+
+
+        .Copyright .col-md-4:nth-child(2) {
+            order: 1;
+        }
+        .Copyright .col-md-4:nth-child(1) {
+            order: 2;
+        }
+        .Copyright .col-md-4:nth-child(3) {
+            order: 2;
+        }
+        
+
+        .school-arrow:before {
+            width: 12px;
+            content: "";
+            height: 12px;
+            border-left: 1px solid #000!important;
+            border-bottom: 1px solid #000!important;
+            -webkit-transform: rotate( 
+       -45deg
+        );
+            -moz-transform: rotate(-45deg);
+            -ms-transform: rotate(-45deg);
+            -o-transform: rotate(-45deg);
+            transform: rotate( 
+       -45deg
+        );
+            position: relative;
+            top: -34px;
+            right: 0;
+            left: 0;
+            display: block;
+            text-indent: 0px;
+            padding: 2px;
+            text-align: center;
+            pointer-events: none;
+            margin: auto;
+       }
+       
+
+       
+
+
+        section.news-sec1 {
+            padding-top: 0;
+        }
+
+        section.prss-release h2 {
+ 
+            margin: 35px;
+    
+        }
+        section.prss-release {
+            padding: 0;
+        }
+
+        section.rsearch-highlights {
+            padding: 0;
+        }
+
+        .faculty-lft img {
+            width: 100%;
+        }
+        
+        section.scholarship-4 img {
+            width: 100%;
+        }
+
+        
+        .search-box_jnu {
+            position: relative;
+            width: 100%;
+            margin: auto;
+        }
+        .searchoverlay .searchform .search {
+        
+            top: 6px;
+            right: 40px;}
+            .searchoverlay .searchform input {
+      
+                padding: 10px 73px 10px 0;}
+
+
+        section.carrer-pic h3 {
+   
+            font-size: 28px;
+        
+        }
+
+        .tell-us {
+            padding: 70px 0; margin: 0px;
+       
+        }
+        section.apply-admission-for.career-accord .announcements-accordian h5.mb-0.accordion {
+            padding: 15px 15px;}
+
+        .student-corner-text5 {
+     
+            padding: 25px 0px 0 25px;
+         
+        }
+        .tell-us p {
+        
+            font-size: 28px;
+         
+            line-height: 38px;
+      
+        }
+
+        .bg-blnk-2 {
+            background: #E5E5E5;
+            width: 100%;
+            height: 250px;
+        }
+
+
+        .traning_sec .traning_details {
+            background: #de0b5c;
+            padding: 15px;
+            color: #FFF;
+            height: inherit;
+        }
+        .media-popup .modal-content button.close {
+            position: absolute;
+            top: 0px;
+            right: 0px;}
+
+            .gallery-det label {
+   
+                border: 0;
+            }
+
+  
+        section.award-panel2 img {
+            width: 100%;
+        }
+
+        section.Accommodation h2, section.lerning-3 h2, .learning-text1 h2, section.innovation_sec_slider h3, .club-text1 h2, .club-text2 h2, section.bryond-6 h2, .beyond-text8 h2, section.health-saftey-4 h2,
+         .health-saftey-7 h2, .admin-text2 h2 {
+       
+       font-size: 28px;
+        }
+
+        section.about-university-6 {
+   
+            padding: 40px 0;
+        }
+        .award-text5 {
+            background: #fff;
+            padding: 22px;
+            min-height: inherit;
+        }
+
+
+        .xovid-text6 blockquote {
+            margin-bottom: 24px;
+            font-size: 21px;
+    
+            line-height: 30px;
+        }
+        .facility-box2 {
+        
+            padding: 30px;
+        }
+
+        section.accomdation-1.covid-1 h5 {
+            margin-bottom: 40px;
+            font-size: 28px;
+
+        }
+        section.covid-5 h2 {
+            font-size: 24px;
+            margin-bottom: 24px;}
+
+        .covid-text ul li {
+       
+            font-size: 14px;
+         
+        }
+
+        .the-club {
+            padding: 30px;
+            
+        }
+
+        .acoom-text7 {
+            margin-bottom: 30px;
+        }
+
+        .smart h4 {
+          
+            margin-bottom: 28px;
+  
+            font-size: 28px;
+        }
+
+        section.upcoming-auditorium h2 {
+            font-size: 26px;
+            padding: 20px 0;
+       
+        }
+        .eastate h3 {
+   
+            font-size: 28px;
+        
+            margin-bottom: 20px;
+        }
+        section.learning-5 {
+            margin-bottom: 0px;
+        }
+
+
+        section.existing-customer .row.mt-4 {
+            margin-top: 0!important;
+        }
+        .existing-customer .auditorium-text h4 {
+            font-size: 16px;
+           
+        }
+
+
+        .existing-customer .auditorium-text br {
+            display: none;
+        }
+        .existing-customer .auditorium-text h3 {
+            font-size: 50px;
+          
+        }
+
+        .existing-customer h2 {
+            font-size: 28px;}
+
+        .rle-text h3 {
+            text-align: center;
+            font-size: 22px;
+            font-family: Merriweather,serif;
+            margin-bottom: 40px;
+        }
+
+        section.online-3 ul li h2 {
+            font-weight: bold;
+            font-size: 26px;
+            margin-top: 20px;
+        }
+
+        
+        section.rsearch-consultancy .research-comitee h3 {
+      
+            font-size: 28px;
+        
+        }
+        section.our-pedegogy {
+            background: linear-gradient(
+        0deg
+        ,rgb(255 255 255 / 0) 0%,#f3f3f3 32%);
+        }
+
+
+        .rsearch-highlights h6 {
+         
+            font-size: 28px;
+     
+            margin: 10px 0 20px;
+           
+        }
+        .padagogy-text2 ul {
+            margin-bottom: 0;
+        }
+
+
+        section.rsearch-consultancy {
+            padding: 50px 0 20px;
+        }
+
+        section.research-highlight-box ul li h4 {
+            font-size: 16px;
+            font-weight: bold;
+            min-height: inherit;
+        }
+
+        section.rsearch-consultancy .research-comitee h5 {
+            
+            font-size: 22px;
+            
+            margin: 20px 0 20px;
+           
+        }
+
+        .placement-6 {
+            padding: 0;
+        }
+
+        .placemnt-tex5 {
+            background: #fff;
+            padding: 28px;
+            position: relative;
+            min-height: inherit;
+        }
+        
+        .student-support-1 blockquote {
+            font-size: 24px;
+            line-height: 36px;
+            padding: 0;
+        }
+
+        .corner-6 p {
+            border-bottom: 2px solid #ffe603;
+            min-height: inherit;
+            font-size: 14px;
+            margin-bottom: 0px;
+            padding-bottom: 30px;
+        }
+        .std-text2 {
+            background: #fff;
+            text-align: left;
+            position: static;
+            bottom: 40px;
+            left: 50px;
+            padding: 30px;
+            width: 100%;
+        }
+
+        .gallery-det h3 {
+            font-size: 15px;
+            color: #000;
+            font-family: 'Merriweather', serif;
+            margin-bottom: 16px;
+            word-break: break-word;
+        }
+        
+
+        section.galler-sec1 {
+            padding-top: 0px;
+            padding-bottom: 20px;
+        }
+
+        .gallery-list ul li:nth-child(2n) {
+            margin: 0 0 20px;
+        }
+
+        
+        .press-slide .col-md-8 {
+            order: 2;
+        }
+        .press-slide .filter-press {
+            margin: 0 0 50px;
+        }
+        .press-slide {
+            background: #192548;
+            padding: 20px 0;
+        }
+
+        .filter-press {
+            background: #FEF6F6;
+            padding: 30px 10px;
+            margin: 20px;
+            margin-top: 0;
+            border-bottom: 6px solid #de0b5c;
+        }
+
+        .press-list .filter-press {
+            margin: 0;
+        }
+        .events-filter {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .press-slide h3 {
+            color: #fff;
+            font-size: 24px;
+            font-weight: bold;
+            margin: 30px 0;
+            line-height: 36px;
+        }
+        .events-filter .date-input {
+            position: relative;
+            margin-bottom: 16px;
+        }
+        .events-filter h4 {
+            width: 100%;
+            margin: 0 0 20px!important;
+            text-align: center;
+        }
+
+        .upcoming-event ul li {
+            width: 100%;
+            padding: 30px;
+        }
+
+      
+        section.news-1 .container {
+            padding: 0 20px 0 20px;
+            position: relative;
+        }
+        
+
+.news-slider button.owl-next {
+    float: right;
+}
+        .news-slider .owl-nav {
+            margin-top: 0;
+            position: absolute;
+            z-index: 9;
+            top: 35%;
+            width: 100%;
+        }
+        
+        .news-slider .owl-nav button span {
+            background: #9e9e9e;
+            width: 30px;
+            height: 30px;
+            display: inline-block;
+            padding: 10px;
+            box-shadow: inherit;
+            outline: 0;
+            text-indent: -9999px;
+            position: relative;
+            margin-right: 5px;
+            border-radius: 50%;
+        }
+        .news-slider .owl-nav button.owl-next span:after {
+            -webkit-transform: rotate( -140deg);
+            -moz-transform: rotate( -140deg);
+            -ms-transform: rotate( -140deg);
+            -o-transform: rotate( -140deg);
+            transform: rotate( -140deg);
+            right: 14px;
+            }
+        
+        
+        
+        .news-slider .owl-nav button  {
+        
+            box-shadow: inherit;
+            outline: 0;
+          
+        }
+        
+        .news-slider .owl-nav button span:after {
+            width: 7px;
+            content: "";
+            height: 7px;
+            border-left: 1px solid rgb(255 255 255)!important;
+            border-bottom: 1px solid rgb(255 255 255)!important;
+            -webkit-transform: rotate( 40deg);
+            -moz-transform: rotate( 40deg);
+            -ms-transform: rotate(40deg);
+            -o-transform: rotate(40deg);
+            transform: rotate(40deg);
+            position: absolute;
+            top: 11px;
+            right: 11px;
+            display: inline-block;
+            text-indent: 0px;
+            padding: 2px;
+            text-align: right;
+        }
+
+
+
+        
+        .media-cavge .filter ul li {
+            box-shadow: unset;
+            width: 100%;
+            margin: 5px 0;
+            text-align: center;
+        }
+        .news-cont {
+            height: 100%;
+            width: 100%;
+            padding: 30px;
+        }
+        .news-cont h2 {
+            font-size: 24px;
+            color: #fff;
+            line-height: 36px;
+         
+        }
+
+.table.table-responsive {
+    display: block;
+    width: 100%;
+}
+section.terms_and_conditions.library-9 ul li {
+    width: 100%;
+}
+
+        .notice{padding: 30px;}
+
+        section.galler-sec1.testimonials_page .gallery-list ul li {
+            width: 46.5%;
+            margin-bottom:20px;
+        }
+
+        section.galler-sec1.testimonials_page .gallery-list .gallery-img {
+            overflow: hidden;
+            max-height: inherit;
+            height: inherit;
+        }
+        .gallery-det {
+            padding: 20px 10px;
+        }
+        section.galler-sec1.testimonials_page .gallery-list ul li:nth-child(2n) {
+            margin: 0 0 15px;
+        }
+
+        section.galler-sec1.testimonials_page .gallery-list ul li:nth-child(3n+0) {
+            margin-right: 3%;
+        }
+
+        section.colllab h4 {
+            font-size: 14px;
+            font-weight: 400;
+            margin: 16px 0;
+            line-height: 20px;
+        }
+
+        .eastate {
+            padding: 30px 0;
+        }
+        section.colllab h2 {
+   
+
+text-align: left;
+   
+font-size: 28px;
+   
+}
+        .tie-ups .owl-nav button.owl-prev:before{display: none;}
+        .tie-ups .owl-nav button.owl-next:before{display: none;}
+
+        section.colllab p {
+            text-align: left;
+            padding: 0;
+        }
+
+        .eastate p {
+            display: inline-block;
+            width: 100%;
+            border-left: 0px;
+            margin: 0;
+            padding: 0;
+        }
+
+
+
+        section.lerning-3 {
+         
+            margin-bottom: 25px;
+        }
+
+        img.mt-60.img-fluid {
+            position: static;
+            top: 0;
+        }
+        .learning-text1 {
+            background: rgb(255 230 3 / 85%);
+            padding: 30px;
+            position: static;
+            top: 30px;
+            right: 30px;
+            width: 100%;
+        }
+
+        section.library-2 .card-body.row {
+            padding:0 15px;
+        }
+        .reaearch-text1 {
+            background: #1F73B7;
+            padding: 20px;
+        }
+        .school-menu-list.research_menu ul li {
+            margin: 0 18px 10px;
+        }
+        section.rsearch-consultancy .research-comitee h4 {
+
+margin: 20px 0 30px;
+
+}
+
+        .research-comitee .row {
+            margin: 0!important;
+        }.bg-blank {
+            background: #ddd;
+            width: 100%;
+            height: inherit;
+        }
+        .res-text1 {
+            width: 100%;
+            background: rgb(255 230 3 / 60%);
+            position: static;
+            top: 0;
+            left: 0;
+            padding: 18px;
+        }
+        section.rsearch-consultancy .research-comitee ul li {
+      
+            font-size: 15px;
+          
+        }
+        .res-text2 {
+            background: #FEF6F6;
+            padding: 20px 20px;
+            height: 100%;
+        }
+
+        .res-blue {
+            background: #182548;
+            padding: 20px;
+            min-height: inherit;
+        }
+        .res-grey {
+            background: #333;
+            padding: 20px;
+        }
+
+        section.rsearch-consultancy blockquote {
+            text-align: center;
+            font-size: 18px;
+            line-height: 27px;
+            margin: 0 0 40px;
+        }
+
+        section.anti-2 ul li {
+            display: inline-block;
+            width: 100%;
+            border-bottom: 1px solid #ddd;
+            padding: 10px 22px;
+            margin-right: 0px;
+            position: relative;
+            font-size: 14px;
+        }
+        section.anti-2 ul li:nth-child(2n) {
+            margin: 0;
+        }
+
+
+
+        section.anti-1 p {
+            padding: 30px 0 0;
+            line-height: 22px;
+            border-left: 0;
+        }
+
+        section.anti-1 img {
+            display: inline-block;
+            width: 48%;
+            vertical-align: top;
+            margin-right: 0;
+        }
+
+        .cont-form.campus_visit {
+            padding: 30px 15px;
+      
+        }
+        .campus_visit_box .eligible-lateral.campus_v .campus_part {
+            padding: 21px;
+        }
+        .campus_visit_box .eligible-lateral.campus_v .campus_part2 {
+            padding: 20px;
+            background: #f7eeee;
+            margin-top: 30px;
+        }
+        
+        .get_direction .campus-view {
+            position: relative;
+            float: left;
+            width: 100%;
+        }
+        a.get_ancher {
+            padding-top: 12px;
+            width: 100%;
+            margin-right: 0;
+            float: right;
+            background: #de0b5c;
+            color: #FFF;
+            border: solid 1px #de0b5c;
+        }
+        .get_direction a{width: 100%;margin: 10px 0 10px;}
+
+        .benifit h3 {
+            font-size: 24px;
+            margin: 10px 0 40px;
+            font-family: Merriweather,serif;
+            display: block;
+        }
+        section.lateral-1 {
+            background: linear-gradient(
+        0deg
+         ,#FEF6F6 93%,#ffffff 15%);
+            padding-bottom: 50px;
+            margin-bottom: 0;
+        }
+        
+        section.about-3.international-accerdiation {
+            text-align: center;
+            background: #fef6f6;
+            padding: 163px 15px 50px;
+          
+        }
+        section.about-3 ul li {
+            margin: 0 5px 15px;
+            width: 31%;
+            text-align: center;
+        }
+        .who-can-text {
+            background: #FFE603;
+            padding: 30px;
+            margin: 0 0px 50px;
+            text-align: center;
+        }
+        .who-can-text h2 {
+            font-weight: bold;
+            font-size: 30px;
+            display: inline-block;
+            margin: 0 0 20px;
+        }
+
+
+        section.inter-2 {
+            padding: 35px 0;
+        }
+        section.inter-2 h3 {
+            font-size: 18px;
+            margin: 30px 0;
+          
+        }
+        .academic-infra ul li {
+            margin: 0 20px;
+            vertical-align: top;
+            width: 37%;
+            text-align: center;
+        }
+        .academic-infra ul {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 45px;
+            flex-wrap: wrap;
+        }
+        section.about-3 h5 {
+            font-size: 18px;
+            font-weight: bold;
+            margin: 40px 0;
+        }
+
+
+        .iner-text-new {
+            padding: 18px;
+            background: #DE0B5C;
+            height: 100%;
+        }
+        .iner-text-new p {
+            color: #fff;
+            font-size: 16px;
+            margin-bottom: 16px;
+        }
+        section.inter-2 blockquote {
+            font-size: 20px;
+            text-align: center;
+            line-height: 32px;
+            margin-bottom: 31px;
+        }
+
+
+        .main-section.inner-header .wed-logo img {
+            width: 229px;
+        }
+        .main-section.inner-header .container-fluid {
+            padding: 10px 15px;
+        }
+        
+
+        .wed-logo img {
+            width: 229px;
+        }
+        .help-with-admission ul li a {
+            color: #000;
+            position: relative;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 14px;
+        }
+        .help-with-admission h3 {
+            font-weight: bold;
+            font-size: 20px;
+            margin-bottom: 20px;
+        }
+   
+
+        .programme-list h3 a:hover {
+            color: rgb(214 214 214);
+        }
+        .course-short-discrption h3 a {
+            font-size: 18px; line-height: 24px;}
+            .course-short-discrption p {
+                margin: 0px 0 5px;
+                font-size: 14px;
+            }
+            .course-short-discrption b {
+                line-height: 20px;
+            }
+            .course-short-discrption a {
+                  padding: 5px 22px;
+                letter-spacing: 2px;
+                font-weight: 900;
+                font-size: 13px;
+            }
+            .course-short-discrption {
+              
+                padding: 30px 18px 20px;
+           
+            }
+    
+        .programme-list h3 a {
+            color: #fff;
+        }
+        .programme-list1 .row {
+            flex-wrap: wrap;
+            display: block;
+        }
+        
+        .programme-list1 .col {
+            max-width: 100%;
+            width: 100%;
+        }
+    
+        
+        .card-columns.colums1 {
+        -webkit-column-count: 1!important;
+        -moz-column-count: 1!important;
+        column-count: 1!important;
+        -webkit-column-gap: 1.35rem!important;
+        -moz-column-gap: 1.35rem!important;
+        column-gap: 1.35rem!important;
+        orphans: 1;
+        widows: 1;
+    }
+    
+        section.home-section-2 {
+            display: none;
+            
+        }
+        li.nav-item-mobile.only-mobile {
+            display: block!important;
+        }
+        .owl-carousel .owl-item .mobile-banner, .mobile-logo{display: block;}
+        .owl-carousel .owl-item .desktop-banner, .desktop-logo{display: none;}
+        .wed-logo img{width: auto;}
+        .banner-content {bottom: 0px;display: block;width: 100%;padding: 20px;left: 0;}
+        .banner-content .line{display:none;}
+        .main-section .container-fluid { padding:15px;}
+        .main-menu ul li {display: none;}
+        .main-menu ul li.mobile_menu_sec {
+            display: inline-block;
+            float: none;
+            position: absolute;
+            right:0px;
+            top:20px;
+        }
+        .main-menu li.searchnav{display: inline-block;margin: 0px;position: relative;top: 18px;right: 43px;border-right: 1px solid #fff;padding-right: 4px;}
+        .main-menu {
+            background: none;
+        }
+        .main-menu li.searchnav a {
+            border: 0px;
+        }
+        section.home-section-1 blockquote {
+            display: none;
+        }
+        .programm-sarch p {
+            display: none;
+        }
+        section.home-section-1 {
+            padding: 20px 0;
+            background: #EDF3F6;
+        }
+        .key-fact-1 {
+            text-align: center;
+            border: 0px;
+            padding: 0px;
+        }
+        .programm-sarch {
+            padding: 0px;
+            border-left: 0px;
+            margin: 20px;
+        }
+        section.home-section-1 .col-md-3:nth-child(1) {
+            display: none;
+        }
+        .programme-list1 .img-panel {
+            display: none;
+        }
+        header.main-section.scrolling-navbar.top-nav-collapse .main-menu li.searchnav {top: 5px;}
+    
+    header.main-section.scrolling-navbar.top-nav-collapse li.mobile_menu_sec {
+        top: 0px;
+    }
+    
+    header.main-section.scrolling-navbar.top-nav-collapse .container-fluid {
+        padding-top: 6px;
+    }
+    header.main-section.scrolling-navbar.top-nav-collapse .wed-logo {
+        padding: 0px;
+    } 
+    .programme-list {
+        margin-top: 0px;
+        background: #DE0B5C;
+        padding: 20px 30px 20px;
+        margin-bottom:20px;
+        min-height:inherit;
+    }
+    .col-md-4:nth-child(2) .programme-list {background: #182548;}
+    .col-md-4:nth-child(3) .programme-list {background: #1F73B7;}
+    
+    
+    
+    .programme-list1 .programme-list ul li a:after {
+        border-color: #fff!important;
+        right: 0px;
+    }
+    
+    .programme-list1 .programme-list h3 {
+        color: #fff;
+        font-size: 24px;
+        font-weight: 300;
+    }
+    
+    .programme-list1 .programme-list ul li a {
+        color: #fff;
+        font-size: 14px;
+    }
+    
+    .programme-list .programme-list ul li a:after {
+        border-color: #fff!important;
+        right: 0px;
+    }
+     section.home-section-4, section.home-section-5, section.home-section-6 {display:none;}
+    section.home-section-7 {
+        padding: 40px 0 30px;
+        background: #fff;
+    }
+    
+    
+    section.home-section-7 .col-md-12 {
+        display: none;
+    }
+    .footer-link ul li {
+        width: 100%;
+    }
+    
+    .footer-link ul li a:after {display:none;}
+    
+    .happing-content2 {
+        position: absolute;
+        bottom: 0px;
+        padding: 14px;
+        z-index: 999;
+    }
+    .happining-2:before{
+        content: "";
+        background: linear-gradient(0deg, rgb(0 0 0 / 59%) 0%,rgb(0 0 0 / 0%) 90%);
+        width: 100%;
+        height: 100%;
+        z-index: 999;
+        position: absolute;
+        top: 0;
+        }
+    
+    .happing-content2 p {
+        color: #fff;
+        font-family: 'Montserrat', sans-serif;
+        margin-bottom: 20px;
+        font-size: 15px;
+    }
+    
+    .happining-2 h3 {
+        font-weight: bold;
+        font-size: 24px;
+        font-family: 'Oswald', sans-serif;
+    }
+    .happining-2 .date {
+        position: static;
+        top: 30px;
+        left: 30px;
+    }
+    .date b {
+        background: url(../images/strip.png) no-repeat;
+        width: 72px;
+        height: 28px;
+        text-align: center;
+        background-position: center;
+        font-size: 14px;
+    }
+    section.home-section-7 .col-md-12.mobile-view {
+        display: block;
+        text-align: center;
+        margin: 28px 0 0;
+    }
+    section.home-section-7 h2 {
+        font-family: 'Oswald', sans-serif;
+        font-size: 30px;
+    }
+    .event-view a {
+        display: inline-block;
+        position: relative;
+        font-weight: 500;
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    .event-view a:after{
+             width: 0;
+             height: 0;
+             border-top: 6px solid transparent;
+             border-left: 9px solid #FFE603;
+             border-bottom:6px solid transparent;
+             content:"";
+             position:absolute;
+             right:-20px;
+             top: 7px;
+             width: 5px;
+             height: 6px;
+             }
+    
+             section.home-section-8 {
+                margin: 49px 0;
+                display: none;
+            }
+            section.home-section-3 .experience {
+                padding: 0px;
+            }
+            
+            section.home-section-3 .experience:before {display:none;}
+            
+            section.home-section-3 .experience h3 {
+                display: none;
+            }
+            section.home-section-3 .experience h5 {
+                display: none;
+            }
+            section.home-section-3 .experience {
+                padding: 0px;
+            }
+            
+            section.home-section-3 .experience:before {display:none;}
+            
+            section.home-section-3 .experience h3 {
+                display: none;
+            }
+            section.home-section-3 .experience h5 {
+                display: none;
+            }
+            
+            .experience h2 {
+                color: #fff;
+                text-align: center;
+                font-family: 'Oswald', sans-serif;
+                font-size: 30px;
+                margin-bottom: 30px;
+                padding: 0 20px;
+            }
+            
+            .experience p {
+                color: #fff;
+                text-align: center;
+                font-family: 'Montserrat', sans-serif;
+                font-weight: normal;
+                padding: 0 35px 20px;
+            }
+            section.home-section-3 {
+                padding: 15px 0 0;
+                background: #182548;
+            }
+            section.home-section-3 .col-6:nth-child(4) {
+                display: none;
+            }
+            .facilities-box p {
+          
+                color: #fff;
+            
+                font-size: 16px;
+                z-index: 999;
+                font-family: 'Oswald', sans-serif;
+            }
+            .facilities-box p:after {
+              
+                top: 10px;
+                right: -14px;
+            
+            }
+            .find-out {
+                display: block;
+                text-align: center;
+                margin: 30px 0px;
+                width: 100%;
+            }
+            section.home-section-3 .col-md-12 {
+                padding: 0px;
+            }
+            .find-out a {
+                display: inline-block;
+                background: #FFE603;
+                padding: 10px 24px 10px 10px;
+                color: #000;
+                font-weight: bold;
+                position: relative;
+                font-size: 12px;
+                width: 89%;
+            }
+            .find-out a:after{    top: 18px;
+                right: 10px;
+    
+    
+            }
+            section.home-section-3 .col-md-12 {
+                padding: 0px;
+            }
+            
+            
+            
+            section.home-section-3 .col-md-3 h2 {
+                display: none;
+            }
+            section.home-section-3 .International-Collaborations-carousel {display:none;}
+            .mobile-view-panel{display: block;}
+            .mobile-view-panel h5 {
+                font-family: 'Oswald', sans-serif;
+                font-size: 70px;
+                color: #fff;
+            }
+            
+            .mobile-view-panel p {
+                color: #fff;
+                padding: 0px;
+                font-size: 15px;
+            }
+            
+            .mobile-view-panel {
+                margin: 15px 0 0;
+            }
+            .footer-menu ul {
+                display: none;
+            }
+            
+            .footer-menu .col-3 {
+                width: 100%;
+                border: 0px;
+                flex: 0 0 100%;
+                max-width: 100%;
+                text-align: center;
+                padding: 0;
+            }
+            .Copyright {
+                float: none;
+                padding: 20px 0;
+                clear: both;
+                width: 100%;
+                float: none;
+                text-align: center;
+            }
+            .footer-menu .col-3:last-child h3{display: none;}
+            .footer-menu .col-3:last-child ul {
+                display: block;
+                background: #000;
+                padding: 10px;
+                margin-top: 20px;
+            }
+            
+            .footer-menu .col-3:last-child ul li {
+                display: inline-block;
+                margin: 0 10px;
+            }
+    
+            .footer-link ul {
+                flex-wrap: wrap;
+                text-align: center;
+                order: 2;
+                width: 100%;
+            }
+            
+            .footer-link ul li a {
+                width: 100%;
+                margin: 0px 0 10px;
+                display: block;
+            }
+            
+            .contact-mail {
+                float: none;
+                margin: 0px;
+                text-align: center;
+                order: 1;
+                width: 100%;
+                border-bottom: 1px solid rgb(255 255 255 / 23%);
+                padding-bottom: 8px;
+                margin-bottom: 30px;
+            }
+            .subscribe {
+                position: relative;
+                margin: 0 auto 20px;
+                width: 73%;
+            }
+            .follow-us h3 {
+                display: block!important;
+                margin-bottom: 0px!important;
+            }
+            
+            .follow-us ul {
+                background: none!important;
+                margin-top: 0px!important;
+            }
+    .footer-link .container {
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+        width: 100%;
+    }
+    
+    .contact-mail h5 a {
+        font-size: 16px;
+    }
+    
+    .contact-mail p a {
+        font-size: 15px;
+    }
+    
+    .contact-mail h5 {
+        display: inline-block;
+        margin-left: 10px;
+    }
+     footer {
+                background: #333;
+                padding: 15px 0 0;
+            }
+    
+            .footer-link {
+                border-bottom: 0px;
+                margin-bottom: 30px;
+                padding-bottom: 0px;
+            }
+            .follow-us ul li {
+        margin: 0px!important;
+    }
+    section.home-section-7 .mb-4 {
+        margin: 0px!important;
+    }
+    .wed-logo{padding:0px;}
+    section.home-section-3 .container {
+        padding: 0 15px;
+    }
+    .banner-content h1 {
+        font-family: 'Oswald', sans-serif;
+        font-size: 60px;
+        line-height: 80px;
+        background: none;
+        color: #fff!important;
+        font-weight: normal!important;
+    }
+    
+    .banner-content h2 {
+        font-family: 'Oswald', sans-serif;
+        background: #1F73B7;
+        display: inline-block;
+        padding: 8px 20px 12px;
+        font-size: 50px!important;
+        line-height: 50px!important;
+        margin: 8px 0;
+        font-weight: normal!important;
+        vertical-align: top;
+        color: #fff!important;
+    }
+    .banner-content p {
+        font-size: 14px;
+        color: #fff!important;
+        min-height: inherit;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: normal!important;
+        margin-bottom: 10px;
+    }
+    
+    .mobile_nav .navbar-collapse {
+        max-width: 100%;
+        top: 0px;}
+    
+        .counter-carousel .owl-dots {
+            text-align: center;
+        }
+    
+        .inner-header .main-menu li.searchnav a {
+            background: url(../images/search-b.svg) no-repeat;
+            background-repeat: no-repeat;
+        }
+    
+        .inner-header .mobile_nav .mobile_nav_icon{
+            background: url(../images/humburger-b.svg) no-repeat;
+            background-repeat: no-repeat;
+        }
+        .main-section.inner-header .wed-logo{padding:0px;}
+        .inner-header .main-menu li.searchnav {
+            border-right: 1px solid #ddd;
+            top: 20px;
+            padding-right: 0px;
+        }
+        .main-section.inner-header {
+            min-height: 85px;}
+    
+            .inner-header.top-nav-collapse .main-menu li.searchnav a {
+                background: url(../images/serch-icon-w.svg) no-repeat;
+             
+            }
+    
+            .inner-header.top-nav-collapse .mobile_nav .mobile_nav_icon{
+                background: url(../images/humburger-icon.svg) no-repeat;
+               
+            }
+    
+            header.main-section.scrolling-navbar.top-nav-collapse img.fixed-logo {
+                display: block;
+            }
+            section.title-head h1 {
+           font-size: 28px;
+           font-weight: bold;
+           position: relative;
+           display: inline-block;
+           padding-bottom: 20px;
+           margin-bottom: 0;
+           }
+
+          section.title-head h1:after { display: none;
+    width: 12px;
+    content: "";
+    height: 12px;
+    border-left: 1px solid #000!important;
+    border-bottom: 1px solid #000!important;
+    -webkit-transform: rotate( 
+-45deg
+ );
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate( 
+-45deg
+ );
+    position: relative;
+    top: -6px;
+    right: -13px;
+   
+    text-indent: 0px;
+    padding: 2px;
+    text-align: right;
+}
+    
+    
+    section.title-head blockquote {
+    font-size: 18px;
+    line-height: 26px;
+    padding: 0;
+    color: #333;
+    }
+    .humburger-menu div#accordion {
+    margin-top: 0px;
+    padding: 60px 25px;
+    }
+    
+    .searchoverlay form .search {
+    position: absolute;
+    top: 26px;
+    right:60px;
+    font-size: 18px;
+    cursor: pointer;
+    color: #fff8f8;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    }
+    .searchoverlay form input {
+    font-size: 16px;
+    color: #fff;
+    text-transform: capitalize;
+    background: 0 0;
+    border: 0;
+    border-radius: 0;
+    border-bottom: 1px solid #ffffff;
+    padding: 10px 70px 10px 0;
+    width: 100%;
+    outline: 0;
+    margin: auto;
+    }
+    .searchoverlay .closesearch {
+    color: #fff;
+    position: absolute;
+    font-size: 20px;
+    top: 27px;
+    right: 14px;
+    }
+    .wed-logo {
+        padding: 0px;
+        max-width: 65%;
+    }
+    .inner-space {
+        padding-top: 84px;
+    }
+    section.title-head {
+        padding: 15px;
+        text-align: center;
+    }
+    section.inner-about1 {
+        background: #fef6f6;    padding: 40px 0 20px;
+        text-align: center;
+    }
+    .about-carousel ul li {
+        font-size: 28px;
+        margin: 0 20px;
+    }
+    .about-carousel ul li h2 {
+        font-size: 45px;
+        font-family: 'Oswald', sans-serif;
+    }
+    .about-carousel ul {
+        align-items: center;
+        justify-content: center;
+        margin: 15px 0 53px;
+        display: flex;
+    }
+    .about-2 {
+        padding: 35px 0 35px;
+        text-align: center;
+    }
+    .about-2 p {
+        font-size: 20px;
+        line-height: 32px;
+        padding: 0 0px;
+    }
+    section.about-3 {
+        text-align: center;
+        background: #FEF6F6;
+        padding: 35px 0;
+    }
+    section.about-3 h4 {
+        font-size: 16px;
+        margin: 0px;
+    }
+
+    section.about-3 ul {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    section.about-3 p {
+        font-size: 18px;
+        padding: 0 0px;
+        line-height: 28px;
+        margin-bottom: 40px;
+    }
+    section.about4 .col-md-6 {
+        margin-bottom: 40px;
+    }
+    section.about4 {
+        padding: 35px 0;
+        text-align: center;
+    }
+    section.about4 {
+        padding: 35px 0 0;
+        text-align: center;
+    }
+    section.about6 .owl-nav {
+        position: absolute;
+        bottom: 50%;
+        width: 100%;
+        padding: 0 6px;
+    }
+    section.about6 h4 {
+        width: 100%;
+        background: rgba(24, 37, 72, 1);
+        padding: 20px;
+        font-size: 24px;
+        position: static;
+        bottom: 100px;
+        right: 100px;
+        z-index: 99;
+        font-weight: 300;
+        color: #fff;
+    }
+    section.about6 .container {
+        padding: 0px;
+    }    
+    section.about5 {
+        background: linear-gradient( 
+    0deg
+    , rgb(255 255 255) 70%,rgb(254 246 246) 5%);
+        margin: 0px;
+        padding: 35px 0px;
+    }
+    .owl-carousel.owl-theme.academic-carousel {
+        max-width: 100%;
+        background: #fff;
+        padding: 27px;
+        position: static;
+        top: 0px;
+        margin: 0;
+    }
+    section.about5 h2{margin-bottom:20px;}
+    .about-infra .col-md-11 .row img {
+        margin-left: 0px;
+        position: static;    margin-bottom: 20px;
+    }
+    .about-infra {
+        margin: 0px;
+    }
+    .educational-experties h1 {
+        color: #fff;
+        margin-bottom: 24px;
+        font-family: 'Merriweather', serif;
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .educational-experties .col-md-3 {
+        margin-bottom: 25px;
+        position: relative;
+        padding-bottom: 10px;
+    }
+    .faculty-about-content {
+        width: 100%;
+        position: static;
+        top: 40px;
+        right: 50px;
+        background: #fdf8f8;
+        padding: 22px;
+    }
+    section.about8 blockquote {
+        font-size: 20px;
+        line-height: 30px;
+        margin-bottom: 30px;
+    }
+    .about-faculty {
+        margin: 35px 0 20px;
+        position: relative;
+    }
+    
+    .medical-about-content {
+        width: 100%;
+        position: static;
+        top: 40px;
+        left: 50px;
+        background: #fdf8f8;
+        padding: 22px;
+    }
+    section.about8 h5 {
+        margin: 35px 0px 35px;
+        font-size: 20px;
+        line-height: 32px;
+    }
+    section.about9 {
+        background: rgba(254, 246, 246, 1);
+        padding: 35px 0;
+    }
+    .why-jnu {
+        background: #fff;
+        padding: 22px;
+        min-height: inherit;
+        position: static;
+        left: 50px;
+        width: 100%;
+        bottom: 50px;
+    }
+    .why-jnu h3 {
+        font-weight: 300;
+        margin-bottom: 18px;
+        font-size: 30px;
+    }
+    section.about4 img {
+        float: none;
+        margin-right: 0;
+        margin-bottom: 40px;
+    }
+    .educational-experties {
+        padding: 35px 0;
+    }
+    section.about5 h3 {
+        font-size: 28px;
+        margin-bottom: 20px;
+    }
+    .about6 h2 {
+        margin-bottom: 30px;}
+        section.about8 h2 {
+            margin-bottom: 20px;
+            font-weight: 700;
+            font-size: 30px;
+        }
+        section.about9 h2 {
+            text-align: center;
+            margin-bottom: 30px;
+            font-family: 'Merriweather', serif;
+            font-weight: bold;
+            font-size: 30px;
+        }
+        section.school-menu {
+            display: block;
+            padding: 0px;
+        }
+        section.school-highlight {
+            padding: 35px 0;
+            text-align: center;
+        }
+        section.school-highlight blockquote {
+            font-size: 24px;
+            padding: 0;
+            line-height: 32px;
+            margin-bottom: 30px;
+        }
+        section.school-highlight {
+            padding: 20px 0;
+            text-align: center;
+        }
+        section.school-highlight blockquote {
+            font-size: 22px;
+            padding: 0;
+            line-height: 32px;
+            margin-bottom: 30px;
+        }
+        section.school-highlight p {
+            padding: 0;
+        }
+        section.school-1 {
+            padding: 35px 0;
+            background: rgba(237, 243, 246, 1);
+        }
+        section.school-1 blockquote {
+            font-size: 21px;
+            text-align: center;
+            padding: 0;
+            margin-bottom: 50px;
+            line-height: 30px;
+        }
+        section.school-1 .col-md-3 {
+            margin-bottom: 25px;
+        }
+        section.school-programme-offerd h2 {
+            font-family: 'Merriweather', serif;
+            font-size: 30px;
+            font-weight: bold;
+            margin: 30px 0 30px;
+            color: #000;
+            text-align: center;
+        }
+        section.school-programme-offerd {
+            padding: 15px 0;
+        }
+        section.school-programme-offerd h3 {
+            font-family: 'Merriweather', serif;
+            font-size: 21px;
+            font-weight: normal;
+            margin: 30px 0 30px;
+            color: #000;
+        }
+        .faculty-short {
+            width: 100%;
+            background: #fff;
+            padding: 15px;
+            position: static;
+            bottom: 0px;
+            right: 0px;
+        }
+        section.our-faculty {
+            margin-bottom: 0;
+            background: #fef6f6;
+            padding: 35px 15px;
+        }
+        .faculty-short p {
+            font-style: italic;
+            margin: 0px;
+            font-size: 14px;
+            line-height: 18px;
+        }
+        .faculty-short h5 {
+            font-size: 14px;
+            font-weight: bold;
+            margin-bottom: 5px;
+            font-family: 'Montserrat', sans-serif;
+        }
+        .faculty-short h2 {
+            font-size: 18px;
+            margin-bottom: 10px;
+            font-family: 'Montserrat', sans-serif;
+        }
+        section.our-faculty h1 {
+            text-align: center;
+            margin-bottom: 25px;
+            font-family: 'Merriweather', serif;
+            font-size: 30px;
+        }
+        section.our-faculty .owl-nav {
+            position: static;
+            bottom: 0;
+            margin: 38px 0 0;
+            text-align: center;
+            left: 0;
+            right: 0;
+        }
+        section.school-programme-offerd ul li a {
+            border-bottom: 1px solid #e0dcdc;
+            font-size: 16px;}
+            .programme-highlight blockquote {
+                font-size: 22px;
+                font-family: 'Merriweather', serif;
+                font-weight: normal;
+                margin: 18px 0 30px;
+                color: #000;
+                text-align: center;
+                line-height: 30px;
+            }
+            .programme-highlight p {
+                padding: 0px;
+                text-align: center;
+            }
+            section.filter-by-school {
+                background: #FEF6F6;
+                padding: 40px 0px;
+                margin: 40px 0;
+                display: block;
+            }
+     .text-school {
+                position: absolute;
+                bottom: 0px;
+                padding: 20px 20px;
+                z-index: 999;
+                min-height: inherit;
+            }
+            .help-with-admission ul li {
+                display: inline-block;
+                width: 100%;
+                vertical-align: top;
+                padding: 10px 20px 10px 20px;
+                margin-right: 0;
+                border-bottom: 1px solid #ddd;
+            }
+            section.school-box4 .col-md-6.pr-0, section.school-box4 .col-md-6.pl-0 {
+                padding: 6px 15px!important;
+            }
+            section.school-box4 {
+                background: #FEF6F6;
+                padding: 70px 0 20px;
+            }
+            section.school-collage-detail blockquote {
+                font-size: 18px;
+                font-family: 'Merriweather', serif;
+                font-weight: normal;
+                margin: 30px 0;
+                color: #000;
+                text-align: center;
+                line-height: 30px;
+            }
+            section.school-collage-detail p {
+                text-align: center;
+                font-size: 16px;
+                line-height: 28px;
+                padding: 0;
+            }
+            .key-information .col-md-8.pl-0 {
+                padding: 0px;
+            }
+            .key-data1 h3 {
+                background: rgba(24, 37, 72, 1);
+                color: #fff;
+                font-size: 14px;
+                padding: 15px 25px;
+                border-bottom: 0px;
+            }
+            section.learning-perspective {
+                margin: 50px 0;
+                background: rgba(254, 246, 246, 1);
+                padding: 41px 0 20px;
+            }
+            .key-data2 h3 {
+                padding: 15px;
+                font-size: 13px;
+                border: 1px solid #ddd;
+                border-bottom: 1px solid #ddd;
+            }
+            .syllabus-tab div#content {
+              
+                width: 100%;
+                display: inline-block;
+                border-radius: 0px;
+            }
+            .syllabus-list {
+                padding: 25px 15px;
+            }
+            .syllabus-list ul li {
+                display: inline-block;
+                width: 100%;
+                margin-bottom: 0;
+                font-size: 15px;
+                border-bottom: 1px solid rgb(221 221 221 / 36%);
+                padding: 5px 0;
+            }
+            .practice-list {
+                background: rgba(254, 246, 246, 1);
+                padding: 25px 25px;
+            }
+            .practice-list ul li {
+                display: inline-block;
+                width: 100%;
+                margin-bottom: 10px;
+            }
+            .pdf-download a {
+                background: rgba(255, 230, 3, 1);
+                padding: 10px 20px;
+                letter-spacing: 3px;
+                font-weight: bold;
+                border-radius: 20px;
+                color: #000;
+                text-transform: uppercase;
+                width: 100%;
+                font-size: 14px;
+            } 
+            .tab-content>.tab-pane{display: block;opacity: 1;}
+            .syllabus-tab .card-header {
+                background: #fef6f6;
+                border: 0px;
+                color: #000;
+                margin-bottom: 8px;
+            }
+            
+            .syllabus-tab .card-header h5.mb-0 a {
+                color: #000;
+                display: block;
+            }
+            .syllabus-tab .card-body {
+                padding: 15px;
+            }
+            .syllabus-panel {
+                border: 1px solid #ddd;
+                margin: 0px;
+                width: 100%;
+                min-height: inherit;
+            }
+            .pdf-download {
+                padding: 0px 0 40px;
+                text-align: center;
+            }
+            section.career-prospectus {
+                background: rgba(24, 37, 72, 1);
+                padding: 35px 0;
+                clear: both;
+            }
+            section.career-prospectus img {
+                max-width: 100%;
+            }
+            section.career-prospectus h2 {
+                font-family: 'Merriweather', serif;
+                font-size: 30px;
+                color: #fff;
+                margin-bottom: 24px;
+            }
+            .carrer-accordian h4 {
+                color: #000;
+                font-size: 16px;
+                padding: 0px 30px 0 0px;
+            }
+            .announcements-accordian div.accordion button.btn.btn-link.collapsed:after, .announcements-accordian div.accordion button:after{top:3px;}
+            .announcements-accordian .card {
+     
+                padding: 1px 15px;
+            }
+            .learning-content {
+                background: rgba(31, 115, 183, 1);
+                padding: 25px;
+                margin-bottom: 30px;
+                left: 0;
+                position: relative;
+                width: 100%;
+                margin-top: 30px;
+            }
+            section.apply-admission-for .col-md-6.pr-0 {
+                padding: 2px 15px!important;
+            }
+            section.apply-admission-for .col-md-6.pl-0 {
+                padding: 2px 15px!important;
+            }
+            .apply-admission-for {
+          
+padding: 30px 0 30px;
+          
+}
+    
+    
+            .career-text {
+                margin: 0 0 30px;
+            }
+            
+            .career-panel {
+                background: #fef6f6;
+                padding: 0 20px;
+            }
+            
+            .career-panel p {
+                font-size: 14px;
+            }
+            .campus-box {
+                border: 1px solid #D8D8D8;
+                padding: 30px 20px;
+                min-height: inherit;
+                margin-bottom: 25px;
+            }
+            section.Accommodation {
+                text-align: center;
+                padding: 0px 0 30px;
+            }
+            section.Accommodation blockquote {
+                font-size: 22px;
+                padding: 20px 12px;
+                line-height: 32px;margin: 0px;
+            }
+            section.inner-about1.acm-discrption {
+                background: #fef6f6;
+            }
+            .about-carousel ul li p {
+                font-size: 16px;
+                text-align: center;
+            }
+            .student-residence h2 {font-size: 30px; }
+            .student-residence {
+                padding: 50px 0 50px;    margin-bottom: 40px;
+            
+            }
+    
+            section.student-residence blockquote {
+                font-size: 22px;
+                margin-bottom: 40px;
+            }
+    
+            .explore-text {
+                position: static;
+                background: #fef6f6;
+                padding: 30px 20px 30px;
+                max-width: 100%;
+                margin-bottom: 20px;
+            }
+            .explore-text h3 {
+                font-size: 30px;
+                font-weight: 300;
+                margin-bottom: 20px;
+            }
+            .explore-carousel .owl-dots {
+                position: static; text-align: center;}
+    
+                .help-with-admission.accom-dtail-line {
+                    padding: 25px 0;
+                }
+                .guest-house {
+                    padding: 22px 22px;
+                  
+                    margin-bottom: 35px;
+                }
+                .filter-school ul {position: fixed;z-index: 9999999;top: 0;width: 100%;height: 100%;background: #fef6f6;left: 0;padding: 26px;transform: translate(1000px, 0px);transition:.5s;}
+    .inner-header.top-nav-collapse .mobile_nav .mobile_nav_icon.open {
+        background: url(../images/cross.svg)  no-repeat;
+    }
+    
+    .inner-header .mobile_nav .mobile_nav_icon.open {
+        background: url(../images/cross.svg)  no-repeat;
+    }
+    
+    
+        .filter-school ul.filter-menu {
+            display: block;
+            transform: translate(2px, 0px);
+            transition:.5s;
+            min-height: 400px;
+            overflow-y: scroll;
+        }
+    
+    .filter-add .close-filter {
+        background: #191818 url(../images/cross.svg) no-repeat;
+        width: 32px;
+        height: 32px;
+        background-position: center;
+        position: fixed;
+        top: 0px;
+        right: 0px;
+        z-index: 999999999;
+    }
+    .filter-school h5:after {
+        width: 12px;
+        content: "";
+        height: 12px;
+        border-left: 2px solid rgb(0 0 0)!important;
+        border-bottom: 2px solid rgb(0 0 0)!important;
+        -webkit-transform: rotate( 
+    -45deg
+    );
+        -moz-transform: rotate( -45deg);
+        -ms-transform: rotate( -45deg);
+        -o-transform: rotate( -45deg);
+        transform: rotate( 
+    -45deg
+    );
+        position: absolute;
+        top: 2px;
+        right: -24px;
+        display: inline-block;
+        text-indent: 0px;
+        padding: 2px;
+        text-align: right;
+        }
+    
+        section.filter-by-school h5 {
+            position: relative;
+            display: inline-block;
+        }
+        .school-menu-list ul li a {
+            color: #000;
+            padding-bottom: 5px;
+            }
+            section.school-menu ul li {
+                display: block;
+                margin: 5px 0;
+                width: 100%;
+            }
+            section.school-menu ul {
+                flex-wrap: wrap;
+                margin-bottom: 30px;
+            }
+            section.school-menu ul li.active {
+                margin-bottom: 10px;
+            }
+            section.programme-highlight {
+                padding-top: 20px;
+            }
+    
+            .library-text {
+                position: static;
+         
+                background: #fef6f6;
+                padding: 30px 30px 30px;
+                max-width: 100%;
+             
+            }
+            .journel-list {
+                padding: 50px 10px 40px;
+            }
+            .journel-list ul li p {
+                text-align: left;
+                border-top: 1px solid #ddd;
+                padding: 20px 0;
+                font-size: 14px;
+            }
+            .journel-list ul li {
+                padding: 0px;
+                margin-right: 20px;
+                text-align: center;
+                display: inline-block;
+                width: 46%;
+                vertical-align: top;
+            }
+            .journel-list ul li:nth-child(2n) {
+                margin: 0px;
+            }
+            .help-with-admission.libray-line {
+                padding: 40px 0;
+            }
+            .help-with-admission.libray-line .e-book p {
+                font-size: 16px;
+                color: #fff;
+                font-weight: 300;
+                margin: 0px;
+            }
+            .help-with-admission.libray-line h4 {
+                font-size: 16px;
+                line-height: 24px;
+                margin-bottom: 40px;
+            }
+            .help-with-admission.libray-line p {
+                font-size: 22px;
+                font-weight: 300;
+            }
+    
+            .facilities-box .img-panel:before {
+                content: "";
+                background: linear-gradient( 
+            0deg
+             , rgb(0 0 0 / 100%) 0%,rgb(0 0 0 / 0%) 77%);
+                width: 100%;
+                height: 100%;
+                z-index: 999;
+                position: absolute;
+                top: 0;
+            }
+            .facilities-box p a {
+                position: absolute;
+                bottom: 16px;
+                color: #fff;
+                left: 0;
+                font-size: 17px;
+                z-index: 999;
+                width: 100%;
+                padding: 0px 58px 0 20px;
+            }
+            .date{position: static;}
+            .img-panel.shadow_bg:after {
+                background: rgb(0 0 0 / 69%);}
+    
+                .happining-1 {
+                    position: relative;
+                    margin-bottom: 10px;
+                }
+                .happining-1 a.read-more {
+                    width: 40px;
+                    height: 40px;
+                    border: 1px solid rgb(255 255 255);}
+                    .Copyright p {
+                        color: rgb(255 255 255 / 71%);
+                        padding-left: 0;
+                        margin: 0px 0 2px;
+                        font-size: 11px;
+                        line-height: 19px;
+                        text-align: center;
+                    }
+                    .home-video video {
+                        width: 100%;
+                        display: block;
+                        object-fit: cover;
+                        height: 483px;
+                    }
+                    div#mainmenu_Panel1 {
+                        max-width: 85%;
+                        position: relative;
+                        margin: 0;
+                    }
+                    .humburger-menu div#accordion  #accordion-1  h5 a{font-weight:normal}
+                    .facilities-box p a:after{    top:9px;
+                        right: 21px;}
+                        .help-line p a {
+                            color: #000;
+                            font-size: 14px;
+                        }
+                        section.school-box3 {
+                            margin-bottom: 50px;
+                        }
+                        .text-school h3 {
+                            color: #fff;
+                            margin-bottom: 20px;
+                            font-size: 21px;
+                            font-weight: 600;
+                        }
+                        .text-school p {
+                            color: #fff;
+                            font-size: 14px;
+                            line-height: 18px;
+                        }
+                        .box-1:before {
+                            content: "";
+                            background: linear-gradient( 
+                        0deg
+                         , rgb(0 0 0 / 75%) 0%,rgb(0 0 0 / 0%) 75%);
+                  
+                        }
+
+                        .key-information h2 {
+                            font-size: 26px;
+                            font-family: 'Merriweather', serif;
+                            font-weight: bold;
+                            margin: 30px 0;
+                            color: #000;
+                            line-height: 45px;
+                            padding: 0px;
+                        }
+                        .social-text3 p{padding:0}
+                        p{font-size: 14px;}
+                        .syllabus-tab .card-header h5.mb-0 a:after {
+                            content:"";
+                            background: url(../images/Path-2.svg) no-repeat;
+                            width: 14px;
+                            height: 14px;
+                            position:absolute;
+                            right:0;
+                            top:10px;
+                          }
+                          .syllabus-tab .card-header h5.mb-0 a{position:relative;}
+                          
+                          .syllabus-tab .card-header h5.mb-0 > a[aria-expanded="true"]:after {
+                              transform: rotate(-180deg);
+                              top: 0;
+                          }
+                          section.career-prospectus p {
+                            color: #fff;
+                            margin-bottom: 18px;
+                            font-weight: 300;
+                            line-height: 23px;
+                        }
+                        .apply-admission-for h2 {
+                            font-family: 'Merriweather', serif;
+                            font-size: 28px;}
+
+
+                            .apply-admission-for .help-with-admission {
+                                margin: 20px 0;
+                            }
+                            section.school-sylabus.other_data ul.list2 li {
+                                padding: 20px 0px;
+                                list-style-type: disc;
+                                font-size: 14px;
+                            }
+                            section.important-dates-1 p {
+                                text-align: center;
+                                padding: 0;
+                                color: #333;
+                            }
+                            section.important-dates-1 .col-md-3 {
+                                text-align: center;-ms-flex: 0 0 50%;
+                                flex: 0 0 50%;
+                                max-width: 50%; margin-bottom:30px;
+                            
+                            }
+                            section.tab-importants {
+                                margin: 30px 0;
+                            }
+                            section.tab-importants .col-md-3{margin-bottom:20px;}
+                            .student-test-text {
+                                padding: 0 10px;
+                                margin-bottom: 40px;
+                                color: #fff;
+                                font-size: 14px;
+                                line-height: 23px;
+                            }
+                            .student-testimonial p {
+                                font-style: normal;
+                                margin-bottom: 20px;
+                                color: #fff;
+                                line-height: 23px;
+                                font-size: 14px;
+                            }
+                            .student-testimonial {
+                                text-align: center;
+                                padding: 30px 0 60px;
+                                background: #182548;
+                            }
+                            .student-testimonial-slider .owl-nav button.owl-prev {
+                                position: absolute;
+                                left: 0;
+                                top: 5%;
+                            }
+
+                            .student-testimonial-slider .owl-nav button.owl-next {
+                                position: absolute;
+                                right: 0;
+                                top: 5%;
+                            }
+                            section.important-dates-1 .col-md-3 p {
+                                margin: 0px;
+                                font-size: 16px;
+                            }
+
+                           .inter-01 .col-md-5.pr-0 {
+                                padding: 0 15px!important;
+                            }
+                            
+                           .inter-01 .col-md-7.pl-0 {
+                                padding: 0 15px!important;
+                            }
+                            .academic-infra blockquote {
+                                font-size: 21px;
+                                text-align: center;
+                                margin-bottom: 70px;
+                                line-height: 32px;
+                            }
+                            section.about-3 ul li {
+                                margin: 0px 8px 15px;
+                                width: 27%;
+                                text-align: center;
+                            }
+
+                            .who-can-text p {
+                              
+                                max-width: 100%;
+                         
+                            }
+                            .benifit ul li img {
+                                float: left;
+                                margin-right: 13px;
+                                margin-bottom: 46px;
+                            }
+                            .benifit ul li {
+                                display: inline-block;
+                                width: 44%;
+                                margin-bottom: 20px;
+                                vertical-align: top;
+                                font-size: 15px;
+                                line-height: 19px;
+                            }
+                            .eligible-lateral ul{margin-bottom:0px}
+                            .eligible-lateral {
+                                background: #FFE603;
+                                padding: 33px 25px;
+                            }
+                            section.course-lateral ul li {
+                                color: #333;
+                                display: inline-block;
+                                border-bottom: 1px solid #ddd;
+                                width: 100%;
+                                margin-right:0px;
+                                padding: 10px 0;
+                            }
+                            section.course-lateral ul{margin-bottom: 40px;}
+                            .anti-text p {
+                                font-size: 18px;
+                                font-weight: bold;
+                                padding: 0;
+                            }
+                            .anti-text {
+                                background: #FFE603;
+                                text-align: center;
+                                padding: 40px 20px;
+                                margin: 40px 0 40px;
+                            }
+                            section.anti-2 h3 {
+                                text-align: center;
+                                font-size: 26px;
+                           
+                            }
+                            section.apply-admission-for.faq_admission .career-panel {
+                                background: none;
+                                padding: 0;
+                            }
+                            section.iqac-panel {
+                                padding: 0px;
+                            }
+                            section.iqac-panel ul li p {
+                                display: inline-block;
+                                font-size: 16px;
+                                color: #333;
+                                width: 100%;
+                                vertical-align: top;
+                                padding-right: 0;
+                                padding-top: 6px;
+                            }
+                            section.our-pedegogy.scholarship-2 {
+                                background: linear-gradient(
+                            0deg
+                            ,#FEF6F6 100% ,#fff 0%);
+                                margin: 0px;
+                                padding: 26px 0;
+                            }
+                            section.scholarship-4 {
+                                background: #1f73b7;
+                                padding-top: 15px;
+                            }
+                            .scholarship-4 .education p.clr-white {
+                                color: #fff;
+                                margin-bottom: 20px;
+                            }
+                            .education {
+                                padding: 40px 0 0;
+                            }
+
+                            body .scholarship-4 .education p {
+                                color: #fff;
+                            }
+                            section.scholarship-3 {
+                                padding: 5px 0 40px;
+                            }
+                            .bullet_list ul li {
+                                position: relative;
+                                padding: 8px 18px;
+                                width: 100%;
+                                display: inline-block;
+                                vertical-align: top;
+                            }
+                            section.school-sylabus.other_data .help-with-admission ul {
+                                margin-bottom: 30px;
+                            }
+
+                            .faculty-nav .pagination {
+                                align-items: center;
+                                justify-content: center;
+                                flex-wrap: wrap;
+                            }
+                            .filter ul {
+                                display: flex;
+                                justify-content: center;
+                                flex-wrap: wrap;
+                            }
+                            .filter ul li {
+                                padding: 0px 10px;
+                                width: 100%;
+                                margin-bottom: 10px;
+                            }
+                            .filter ul .fl-bg select {
+                         
+                                padding: 8px 20px;
+                                padding-right:0px;
+                                width: 100%;
+                                min-width: 100%;
+                          
+                            }
+                            .faculty-list ul li {
+                                width: 48.5%;
+                                margin-right: 2%;
+                                margin-bottom: 45px;
+                                box-shadow: 0px 0px 10px #ddd;
+                                height: 100%;
+                            }
+                            .faculty-list ul li:nth-child(2n) {
+                                margin-right: 0;
+                            }
+                            .faculty-info h4 {
+                                font-size: 18px;
+                                color: #000;
+                                font-family: 'Merriweather', serif;
+                                margin-bottom: 17px;
+                                display: block;
+                            }
+                            .faculty-list .faculty-info {
+                                padding: 20px 16px;
+                            }
+                            .faculty-info p{line-height: 22px;}
+                            .text-diff {
+                                font-size: 18px;
+                                font-family: Merriweather,serif;
+                                text-align: left;
+                                line-height: 37px;
+                                margin-bottom: 15px;
+                            }
+                            .bg-blank2 {
+                                background: #ddd;
+                                width: 100%;
+                                height: inherit;
+                                margin-bottom: 0;
+                            }
+                            .padagogy-text2 {
+                                padding: 30px 20px;
+                             
+                                height: 100%;
+                            }section.padagogy-2 .col-md-4 {
+                                margin-bottom: 25px;
+                            }
+                            section.padagogy-3 {
+                                background: #182548;
+                                margin: 0px;
+                                padding: 20px 0;
+                            }
+                            .padegogy-text6 {
+                                padding: 30px 0px 0;
+                            }
+                            section.padagogy-3 .col-md-4:nth-child(4) .padegogy-text6 {
+                                padding: 30px 0px 0;
+                            }
+                            .text-diff {
+                                font-size: 17px;
+                            line-height: 28px;
+                                margin-bottom: 15px;
+                            }
+                            section.online-1 blockquote {
+                                font-size: 18px;
+                                line-height: 31px;
+                                margin: 40px 0;
+                            }
+                            section.online-1 p {
+                                margin-bottom: 60px;
+                                padding: 0;
+                            }
+                            .blank-bg-3 p {
+                                background: #fff;
+                                padding: 21px;
+                                color: #000;
+                            }
+                            section.online-3 ul li {
+                                text-align: center;
+                                display: inline-block;
+                                width: 49%;
+                                margin: 0px 0 10px;
+                                vertical-align: top;
+                            }
+                            .container.clearfix p.btn.btn-primary.last {
+                                position: static;
+                                bottom: 0;
+                                left: 0;
+                                background: #FFE603;
+                                border: solid 1px #FFE603;
+                                color: #000;
+                                padding: 5px 25px;
+                                font-size: 14px;
+                                text-align: center;
+                                margin: auto;
+                                width: 100%;
+                                display: block;
+                            }
+                            section.rule ul li {
+                                position: relative;
+                                padding: 8px 0px 8px 25px;
+                                font-size: 15px;
+                            }
+                            .rle-text {
+                                background: #FFE603;
+                                padding: 27px;
+                            }
+                            .rle-text ul li {
+                                display: inline-block;
+                                width: 100%;
+                                margin-bottom: 10px;
+                                padding: 0 0 0 22px;
+                                font-weight: bold;
+                                position: relative;
+                            }
+
+                            section.publication-box table tr th {
+                   
+                                font-size: 16px;
+                                font-weight: normal;
+                            }
+                            .regulation-1 ul li {
+                                border-bottom: 1px solid #ddd;
+                                padding: 10px 0;
+                                width: 100%;
+                                display: inline-block;
+                                margin-right: 0;
+                                vertical-align: top;
+                                min-height: inherit;
+                                font-size: 16px;
+                            }
+                            .regulation-1 {
+                                padding: 10px;
+                            }
+                            .regulation-1 ul li img {
+                                width: 50px;
+                                height: 50px;
+                                margin: 0 18px 30px 0;
+                                float: left;
+                            }
+                            section.publication-box blockquote {
+                                font-size: 22px;
+                                text-align: center;
+                                margin-bottom: 30px;
+                                line-height: 32px;
+                            }
+
+                            section.rsearch-consultancy .research-comitee blockquote {
+                                margin-bottom: 30px;
+                            }
+
+                            section.library-1 blockquote {
+                                font-size: 18px;
+                                padding: 0;
+                                line-height: 32px;
+                                text-align: center;
+                            }
+                            .library-text1 {
+                                position: static;
+                                top: 50px;
+                                right: 50px;
+                                background: rgb(251 239 239 / 60%);
+                                padding: 30px;
+                                width: 100%;
+                                text-align: left;
+                            }
+                            .library-campus-text1 {
+                                position: static;
+                                top: 50px;
+                                left: 50px;
+                                background: rgb(249 237 237 / 60%);
+                                padding: 30px;
+                                width: 100%;
+                            }
+                           .container1 .library-tab .card-header {
+                                display: block;
+                            }
+                           .container1 section.library-2 .library-tab ul.nav.nav-tabs{display: none;}
+                            section.library-4 ul {
+                                display: block;
+                                align-items: center;
+                                justify-content: center;
+                                flex-wrap: wrap;
+                            }
+                            section.library-4 ul li {
+                                padding: 0 5px;
+                                width: 45%;
+                                display: inline-block;
+                            }
+                            section.library-5 {
+                                background: #182548;
+                                padding: 30px 20px;
+                                width: 100%;
+                            }
+                           
+                            .library-text5 ul li {
+                  
+                                padding-left: 14px;
+                            }
+                            .library-7 ul li h5 {
+                                font-size: 22px;
+                                font-weight: bold;
+                            }
+                            .library-7 ul li {
+                                display: inline-block;
+                                width: 47.5%;
+                                vertical-align: top;
+                                color: #000;
+                                margin-bottom: 44px;
+                                border-left: 1px solid #1F73B7;
+                                padding-left: 21px;
+                            }
+                            .library-7 {
+                                padding: 15px;
+                                width: 100%;
+                                margin: 0 auto;
+                            }
+                            section.library-6 {
+                                padding: 70px 0 25px;
+                                width: 100%;
+                            }
+                            .library-8 {
+                                padding: 30px 15px;
+                                background: #FEF6F6;
+                                margin-top: 50px;
+                                width: 100%;
+                            }
+                            .library-text10 {
+                                width: 100%;
+                                background: #fff;
+                                padding: 30px 15px;
+                                position: static;
+                              
+                            }
+                            .library-9 ul {
+                                margin: 4px 15px;
+                            }
+                            .library-9 ul li {
+                            
+                                padding: 8px 25px;
+                                 padding-right: 0;
+                            }
+                            .library-text10 p {
+                                font-size: 18px;
+                                line-height: 26px;
+                        
+                            }
+                            .library-10 {
+                                padding: 15px;
+                                width: 100%;
+                            }
+                            section.library-11 {
+                                background: #182548;
+                                padding: 15px;
+                                width: 100%;
+                            }
+                            .white-bg {
+                                padding: 35px 20px;
+                                background: #fff;
+                                height: 100%;
+                            }
+                            .yellow-bg {
+                                background: #FFE603;
+                                padding: 27px;
+                                margin: 15px 0 15px;
+                            }
+
+                            .auditorium-text {
+                                width: 400px;
+                                padding: 30px 20px;
+                                background: rgb(255 255 255 / 74%);
+                                position: absolute;
+                                top: 50px;
+                                right: 50px;
+                            }
+
+                            section.upcoming-auditorium {
+                                text-align: center;
+                                padding: 30px 10px 50px;
+                                background: #1F73B7;
+                            }
+                            section.upcoming-auditorium p {
+                                color: #fff;
+                                font-weight: 300;
+                                padding: 0;
+                                font-size: 15px;
+                            }
+                            section.accomdation-1 blockquote {
+                                text-align: center;
+                                font-size: 18px;
+                                line-height: 30px;
+                                margin-bottom: 12px;
+                            }
+
+                            .accomdation-1 .auditorium-text {
+                                position: static;
+                                width: 100%;
+                                padding: 15px 0;
+                            }
+                            .auditorium-pic2 .auditorium-text p {
+                                margin: 0;
+                                padding-bottom: 0;
+                            }
+                            .existing-customer {
+                                padding: 0;
+                            }
+
+                            .sports3 p {
+                                text-align: center;
+                                margin-bottom: 40px;
+                                padding: 0 10px;
+                            }
+                            .sports3 h4 {
+                                font-family: Merriweather,serif;
+                                font-size: 24px;
+                                text-align: center;
+                                margin-bottom: 30px;
+                                line-height: 32px;
+                            }
+                            section.innovation_sec {
+                                background: #f3f3f3;
+                            }
+                            section.innovation_sec h4 {
+                                padding: 30px 0 30px;
+                                font-size: 18px;
+                                line-height: 26px;
+                            }
+                            section.innovation_sec_slider {
+                                margin: 30px 0;
+                            }
+                            
+.owl-carousel.owl-theme.innovation-carousel .owl-nav button span {
+    background: #6e787d;
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    padding: 10px;
+    box-shadow: inherit;
+    outline: 0;
+    text-indent: -9999px;
+    position: relative;
+    margin-right: 5px;
+    border-radius: 50%;
+}
+
+.owl-carousel.owl-theme.innovation-carousel .owl-nav button span:after {
+    width: 7px;
+    content: "";
+    height: 7px;
+    border-left: 1px solid rgb(255 255 255)!important;
+    border-bottom: 1px solid rgb(255 255 255)!important;
+    -webkit-transform: rotate( 
+40deg
+);
+    -moz-transform: rotate( 40deg);
+    -ms-transform: rotate(40deg);
+    -o-transform: rotate(40deg);
+    transform: rotate(
+40deg
+);
+    position: absolute;
+    top: 6px;
+    right: 5px;
+    display: inline-block;
+    text-indent: 0px;
+    padding: 2px;
+    text-align: right;
+}
+
+.owl-carousel.owl-theme.innovation-carousel button.owl-next span:after {
+    -webkit-transform: rotate( 
+-140deg
+);
+    -moz-transform: rotate( -140deg);
+    -ms-transform: rotate( -140deg);
+    -o-transform: rotate( -140deg);
+    transform: rotate( 
+-140deg
+);
+    right: 8px;
+}
+
+.owl-carousel.owl-theme.innovation-carousel .owl-nav {
+    position: absolute;
+    top: 40%;
+    width: 100%;
+}
+
+.owl-carousel.owl-theme.innovation-carousel .owl-nav  button.owl-next {
+  float:right;
+}
+section.value_add p {
+    padding: 0 10px;
+}
+section.value_add blockquote {
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+.box_list {
+    max-width: 100%;
+    margin: 0px auto;
+}
+.box_list .col {
+    width: 100%;
+}
+
+.box_list .row {
+    flex-wrap: wrap;
+    display: block;
+    text-align: center;
+}
+
+.box_list2 img {
+    display: none;
+}
+
+.box_list2 br {
+    display: none;
+}   
+.border_boxes {
+
+    padding: 40px 0 40px;
+    margin-top: 60px;
+}                
+.box_list {
+    max-width: 100%;
+    margin: 0px auto;
+}
+.inn_data{text-align: center;position: static;margin: 20px 0;}
+section.value_add {
+
+padding: 50px 0 50px;
+
+}
+
+    section.home-section-3.innovation_head h3 {
+        font-size: 28px;
+        color: #fff;
+        padding-bottom: 00;
+        }
+        section.home-section-3.innovation_head .experience p {
+            font-size: 14px;
+            font-weight: 600;
+            padding: 0;
+        }
+
+        section.home-section-3.innovation_head .facilities-box p {
+            position: absolute;
+            bottom: 0;
+            color: #fff;
+            left: 0;
+            font-size: 16px;
+            z-index: 999;
+            right: 0;
+            text-align: left;
+            padding: 0 10px;
+        }
+        section.home-section-3.innovation_head .col-6:nth-child(4){display:block}
+        .accom-img-rgt img {
+            height: inherit;
+            margin-top: 30px;
+        }
+        .accom-img-rgt {
+            position: static;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            max-width: 100%;
+        }
+        section.acoom-2 {
+            background: #fff7f7;
+            margin: 50px 0;
+            margin-bottom: 0;
+        }
+
+        .about-carousel1 ul li p {
+            text-align: left;
+            margin: 0px;
+            padding-right: 0;
+        }
+        .about-carousel1 ul li h2 {
+            font-size: 50px;}
+
+            section.accom-4 h2 {
+                font-size: 24px;}
+
+                section.accom-4 blockquote {
+                    font-size: 18px;
+                    margin-bottom: 50px;
+                    padding: 0;
+                    line-height: 27px;
+                }
+                .residence-content h4 {
+                        width: 100%;
+              
+                    margin-left: 0;
+               
+                }
+                .residence-content img{margin-bottom: 20px;}
+                .residence-content {
+                    margin: 20px 0;
+                    text-align: center;
+                }
+                section.explore-student1 h2 {
+          
+margin-bottom: 25px;
+          
+font-size: 28px;
+          
+}
+                .text-1 {
+                    position: static;
+                    padding: 30px 0 0;
+                    background: rgb(255 255 255 / 60%);
+                    width: 100%;
+                }
+                .girl-room {
+                    position: relative;
+                    margin-bottom: 0;
+                }
+                .other-room {
+                    margin: 0;
+                }
+                .other-room-text h2 {
+                    font-size: 24px;
+                    font-weight: bold;
+                    margin: 20px 0;
+                }
+                .text-1 h2{font-size:24px;}
+                .other-room-text ul li {
+                    display: inline-block;
+                    vertical-align: top;
+                    width: 100%;
+                    margin: 10px 0;
+                    font-size: 20px;
+                    font-weight: 400;
+                }
+                .other-room-text.university-guest {
+                    background: #FEF6F6;
+                    padding: 20px 30px;
+                    margin: 30px 0 0;
+                }
+                .accom-6 h4 {
+                    font-family: Merriweather,serif;
+                    font-size: 18px;
+                    text-align: center;
+                    margin-bottom: 0;
+                    color: #fff;
+                    padding: 50px 20px 0;
+                    line-height: 27px;
+                }
+                section.accomdation-1.accom-1 ul {
+                    display: flex;
+                    flex-wrap: wrap;
+                }
+                section.accomdation-1.accom-1 ul li {
+                    padding: 0px 24px 10px;
+                    border-left: 1px solid #ddd;
+                    font-size: 15px;
+                    font-weight: 700;
+                }
+                .accom-text2 blockquote {
+                    font-size: 18px;
+                    line-height: 29px;
+                    padding: 30px 0 10px;
+                }
+
+                section.cafetera-2 img {
+                    height: inherit;
+                }
+                .cafetera-2 {
+                    padding: 0 0 50px;
+                }
+                .cafetera-2 ul{margin-bottom: 20px;}
+                section.cafeteria-offer ul li {
+                    display: inline-block;
+                    color: #fff;
+                    margin-right: 16px;
+                    border-right: 0px;
+                    padding-right: 0;
+                    min-height: inherit;
+                    width: 43%;
+                    vertical-align: top;
+                    margin-bottom: 20px;
+                }
+                section.cafeteria-offer {
+                    background: #182548;
+                    padding: 30px 0;
+                    margin-bottom: 50px;
+                }
+                section.cafeteria-offer h2 {
+                    color: #fff;
+                    font-size: 27px;
+               
+                    border-right: 0px;
+                    padding-right: 0;
+                    margin-right: 0px;
+                    margin-bottom: 30px;
+                }
+                section.cafeteria-offer2 ul li {
+                    display: inline-block;
+                    color: #333;
+                    border-left: 0px;
+                    padding: 20px 0px;
+                    font-size: 16px;
+                    font-weight: bold;
+                    width: 42%;
+                    min-height: inherit;
+                    margin-right: 20px;
+                    vertical-align: top;
+                }
+                section.cafeteria-offer2 ul {
+                    display: inline-block;
+                    vertical-align: top;
+                    width: 100%;
+                }
+                .club-text2 {
+                    width: 100%;
+                    background: rgb(255 255 255 / 60%);
+                    padding: 30px 0;
+                    position: static;
+                
+                }
+                .club-text1 {
+                    padding: 30px;
+                    height: inherit;
+                }
+                .student-club-4.yellow-bg1 .club-text2 {
+                 padding: 30px;
+                }
+                section.student-club-panel .col-md-6:nth-child(2) .the-club h3 {
+                    color: #fff;
+                    font-size: 24px;
+                    font-family: Merriweather,serif;
+                    line-height: 34px;
+                    padding: 6px 0;
+                }
+                .transport-text {
+                    position: static;
+            
+                    background: rgb(31 115 183 /60%);
+                    padding: 30px;
+                    width: 100%;
+                }
+                .beyond-text {
+                    padding: 30px 0;
+                    background: rgb(255 255 255 / 60%);
+                    position: static;
+                    width: 100%;
+                    bottom: 50px;
+                    left: 50px;
+                }
+                .beyond-text8 {
+                    width: 100%;
+                    background: rgb(255 255 255 / 60%);
+                    padding: 30px 0;
+                    position: static;
+                    top: 50px;
+                    right: 50px;
+                }
+                .byond-panel-pic.yellow-bg3 .beyond-text8 {
+                    background: rgb(255 230 3 /60%);
+                
+                    padding: 30px;
+                }
+                .beyond-panel1.left-text-move .beyond-text {
+                                   padding: 30px;
+                }
+                .beyond-panel1.left-text-move .beyond-text h2 {
+                    color: #fff;
+                    font-size: 24px;
+                    font-weight: bold;
+                    margin-bottom: 22px;
+                }
+                section.home-section-3.beyond3 .experience {
+                    padding: 0;
+                }
+                section.home-section-3.beyond3 .experience p {
+                    font-weight: normal;
+                    font-size: 16px;
+                    line-height: 28px;
+                }
+                section.bryond-6 .col-md-4 {
+                    border-left: 0px;
+                }
+                .spice-block {
+                    padding: 0;
+                }
+                section.bryond-6 {
+                    padding: 40px 0;
+                  
+                }
+                section.bryond-6 .row {
+                    padding: 0px;
+                }
+                section.bryond-7 .row.mt-5.mb-5 {
+                    margin-top: 0px!important;
+                }
+                .beyond-text10 h2 {
+                    font-size: 24px;
+                    font-weight: bold;
+                    margin-bottom: 20px;
+                }
+
+                .beyond-panel1.sports-1 .beyond-text {
+                    background: rgb(31 115 183 / 80%);
+                    right: 50px;
+                    left: inherit;
+                    top: 50px;
+                    padding: 30px;
+                    margin-bottom: 30px;
+                }
+                section.home-section-3.sports2 .experience {
+                    padding: 0;
+                }
+                section.home-section-3.sports2 .experience p {
+                    font-weight: normal;
+                    font-size: 18px;
+                    line-height: 30px;
+                    text-align: left;
+                    padding: 0 20px;
+                }
+                section.sports3.pt-0.mt-0 {
+                    padding: 30px 0!important;
+                }
+                .other_sports {
+                    padding: 50px 0 0;
+                    text-align: left;
+                }
+                section.home-section-3.gymnasium-2 p {
+                    font-weight: normal;
+                    font-size: 18px;
+                    line-height: 29px;
+                    padding: 0;
+                }
+                section.home-section-3.gymnasium-2 {
+                    padding: 10px 0;
+                }
+                .black-bg {
+                    background: #333;
+                    width: 100%;
+                    height: inherit;
+                    position: static;
+                    top: 0;
+                }
+                
+                section.covid-2 {
+          
+margin-bottom: 0px;
+          
+padding-bottom: 20px;
+          
+}
+
+                section.covid-3 h3 {
+                    font-size: 18px;
+                    text-align: center;
+                    padding: 0;
+                    margin-bottom: 60px;
+                    line-height: 28px;
+                }
+
+                section.covid-2 .black-bg {
+                    margin-top: 20px;
+                }
+                .covid-text3 ul {
+                    margin-bottom: 25px;
+                }
+                .covid-text3 {
+                    border-right: 0px;
+                    height: 100%;
+                }
+                .bg-balck {
+                    background: #333;
+                    height: inherit;
+                    position: relative;
+                }
+                .covid-text-5 {
+                    position: static;
+                    padding: 30px 0 0;
+                    background: rgb(255 255 255);
+                    width: 100%;
+                    left: 50px;
+                    top: 50px;
+                }
+                .facility-box2 blockquote {
+                    color: #fff;
+                    font-family: Merriweather,serif;
+                    font-size: 18px;
+                    line-height: 32px;
+                }
+
+                .medical-text {
+                    position: static;
+                    top: 50px;
+                    right: 50px;
+                    background: rgb(255 255 255 /60%);
+                    padding: 26px 0;
+                    width: 100%;
+                }
+                .medical-text2 {
+                    width: 100%;
+                    top: inherit;
+                }
+                .medical-text3 {
+                    padding: 15px 0px;
+                }
+
+                section.health-saftey2 p {
+                    font-size: 18px;
+                    line-height: 29px;
+                    font-family: Merriweather,serif;
+                    padding-top: 40px;
+                }
+                section.health-saftey-4 {
+                    padding: 0px;
+                }
+                .health-saftey-bg h4 {
+                    color: #fff;
+                    font-size: 18px;
+                    line-height: 29px;
+                    padding-right: 0;
+                    margin-bottom: 30px;
+             
+                }
+                section.health-saftey-5 {
+                    margin: 40px 0;
+                }
+                section.health-saftey-5 .col-md-12.mt-5 {
+                    margin-top: 0px!important;
+                }
+                section.health-saftey-6 h2 {
+                    font-size: 24px;
+                    text-align: center;
+                    padding: 20px 0 20px;
+                
+                }
+
+                section.health-saftey-7 ul li {
+                    position: relative;
+                    padding: 4px 5px 4px 19px;
+                    width: 46%;
+                    display: inline-block;
+                    vertical-align: top;
+                    font-size: 14px;
+                    margin-right: 19px;
+                    font-weight: normal;
+                    color: #fff;
+                }
+                section.health-saftey-8 ul {
+                    margin-bottom: 30px;
+                }
+                .yellow-bg4 {
+                    margin: 0px 0px 50px;
+                    background: rgba(255, 230, 3, 1);
+                    padding: 30px 29px;
+                }
+                .yellow-bg4 h5 {
+                    font-size: 18px;
+                    line-height: 30px;
+                    font-family: Merriweather,serif;
+                }
+                .reporting {
+                    background: rgba(24, 37, 72, 1);
+                    padding: 7px 30px;
+                    margin-top: -100px;
+                    margin-bottom: 50px;
+                }
+                .health-saftey-8 h2 {
+                    font-size: 30px;
+                    padding: 20px 0 20px;
+                   
+                }
+                .admin-text2 {
+                    position: static;
+                    left: 50px;
+                    top: 27px;
+                    background: rgb(255 255 255 / 80%);
+                    width: 100%;
+                    padding: 30px 0;
+                }
+                .admin-text {
+                    position: static;
+                    right: 50px;
+                    top: 29px;
+                    background: rgb(31 115 183 / 80%);
+                    width: 100%;
+                    padding: 30px;
+                }
+                .admin-pic2 h4 {
+                    font-size: 18px;
+                    padding: 0;
+                    line-height: 26px;
+                }
+                section.about-university-4 {
+                    padding: 50px 0;
+                    background: #FEF6F6;
+                    border-top: 0px;
+                }
+                section.about-university-4 p {
+                    text-align: left;
+                }
+                section.about-university-4 .col-md-3 {
+                    border-right: 0px;
+                }
+
+                section.about-university-4 h2 {
+              
+text-align: left;
+              
+margin-bottom: 20px;
+              
+}
+                .about-university-3 ul li {
+                    margin: 0 16px;
+                    width: 22%;
+                }
+                .about-university-3 ul {
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    padding: 40px 0;
+                    flex-wrap: wrap;
+                }
+                section.about-university-2 img {
+                    margin-top: 30px;
+                }
+                section.about-university-2 {
+                    background: #fef6f6;
+                    width: 100%;
+                    height: 100%;
+                    padding: 30px 0 0;
+                    margin: 30px 0;
+                }
+
+                .about-carousel .owl-nav {
+                    position: relative;
+                    top: -40px;
+                    text-align: center;
+                }
+                .about-university-2 p {
+                    text-align: center;
+                    margin: 0 0 50px;
+                }
+
+                .academic-exce {
+                    margin-top: 30px;
+                }
+
+                .about-university-2 h4 {
+                    font-size: 16px;
+                    line-height: 26px;
+                    padding-top: 0;
+                }
+                section.about-university-5 h5 {
+                    font-size: 16px;
+                    text-align: center;
+                    line-height: 28px;
+                    padding: 0;
+                    margin-bottom: 40px;
+                }
+                section.about-university-5 {
+                    padding: 30px 0 0;
+                }
+                .admin-text h3 {
+                    color: #fff;
+                    font-size: 18px;
+                    line-height: 27px;
+                }
+                .who-we {
+                    padding-left: 15px;
+                    padding-right: 15px;
+                }
+                .world-faculty {
+                    background: #ffe603;
+                    position: relative;
+                    width: 100%;
+                    left: 0;
+                    padding: 30px;
+                    top: 0;
+                }
+                .jnu-glance-5 {
+                    padding: 70px 0 0;
+                }
+                .jnu-glance-6 h2 {
+               
+                    margin-bottom: 20px;}
+                    .number-head h3 {
+                      
+                        font-size: 50px;
+                   
+                        margin-bottom: 10px;
+                    }
+                    .other-number {
+                        margin: 20px 0px 0px;}
+                        .ranked-best {
+                            width: 100%;
+                            background: rgb(255 255 255 / 60%);
+                            padding: 30px 0;
+                            position: static;
+                            top: 50px;
+                        }
+                        blockquote.jnu_glance {
+                            font-size: 18px;
+                            line-height: 28px;
+                            padding: 0 0 30px;
+                            color: #333;
+                            text-align: center;
+                        }
+                        .jnu-top-content {
+                            padding: 30px 15px;
+                        }
+
+                        section.jnu-glance-2 {
+                            padding: 40px 0;
+                        }
+
+                        .educational-programm h5 {
+                        
+                            font-size: 60px;}
+                            .other-number1 h4 {
+                                font-size: 50px;
+                                color: #fff;
+                                font-family: Oswald,sans-serif;
+                                margin-bottom: 14px;
+                            }
+
+                            .other-number2 h4 {
+                                font-size: 50px;
+                                color: #fff;
+                                font-family: Oswald,sans-serif;
+                                margin-bottom: 14px;
+                            }
+                            .jnu-glance-7 {padding: 70px 0 30px;background: #182548;}
+                            .jnu-glance-8 h3 {
+                                font-size: 24px;
+                                margin: 24px 0;
+                                font-weight: bold;
+                            }
+                            .jnu-glance-8 {
+                                padding: 70px 0 30px;
+                            }
+                            .ranked-best h2 {
+                                font-size: 30px;
+                                font-family: Merriweather,serif;
+                                margin-bottom: 22px;
+                                font-weight: bold;
+                            }
+                            .other-number h4 {
+                                color: #fff;
+                                font-size: 35px;
+                             
+                            }
+                            .value-text {
+                                width: 100%;
+                                background: rgb(255 255 255 / 60%);
+                                padding: 30px 0;
+                                position: static;
+                                top: 50px;
+                                left: 50px;
+                            }
+                            .exclusive-text {
+                                width: 100%;
+                                padding: 30px;
+                                position: relative;
+                                left: 0;
+                                background: #1F73B7;
+                                top: 0;
+                            }
+                            .holistic-text {
+                                position: relative;
+                                padding: 30px;
+                                background: #FFE603;
+                                width: 100%;
+                                z-index: 9;
+                                left: 0;
+                                top: 0;
+                            }
+                            .why-education ul li:after{top: 23px;}
+                            .why-faculty-text {
+                                width: 100%;
+                                padding: 30px 0;
+                                background: #fef6f6;
+                                position: static;
+                                top: 14px;
+                                right: 50px;
+                            }
+                            .why-education ul li {
+                                display: inline-block;
+                                width: 100%;
+                                vertical-align: top;
+                                color: #fff;
+                                margin-right: 12px;
+                                margin-bottom: 0;
+                                padding: 15px;
+                                position: relative;
+                            }
+                            .why-education {
+                                padding: 25px;
+                            }
+                            .value-education {
+                                position: relative;
+                                margin-bottom: 0;
+                            }
+                            .why-infra-content {
+                                width: 100%;
+                                position: static;
+                                top: 0;
+                                right: 50px;
+                                background: rgb(24 37 72 / 60%);
+                                padding: 19px;
+                                z-index: 999;
+                            }
+                            .why-infra-content p {
+                                font-weight: 300;
+                                color: #fff;
+                                font-size: 26px;
+                                line-height: 32px;
+                            }
+                            .Infrastructure-Glance-carousel .owl-nav button.owl-prev {
+                                position: absolute;
+                                left: 22px;
+                                top: 18%;
+                            }
+
+                            .Infrastructure-Glance-carousel .owl-nav button.owl-next {
+                                position: absolute;
+                                right: 22px;
+                                top: 18%;
+                            }
+                            .Strong-Pedagogy {
+                                padding: 30px;
+                                background: #182548;
+                                height: inherit;
+                            }
+                            .our-vision {
+                                width: 100%;
+                                background: rgb(31 115 183 /60%);
+                                padding: 30px;
+                                position: static;
+                                top: 50px;
+                                left: 50px;
+                            }
+
+                            .our-vision p {
+                                color: #fff;
+                                font-size: 20px;
+                                line-height: 30px;
+                                font-weight: 300;
+                            }
+
+                            .mision-text {
+                                padding: 30px;
+                                background: #FFE603;
+                                width: 100%;
+                                left: 0;
+                                position: relative;
+                                top: 0;
+                            }
+                            .vision-mission1 ul li {
+                                position: relative;
+                                display: inline-block;
+                                width: 100%;
+                                margin-right: 0;
+                                vertical-align: top;
+                                padding: 20px;
+                            }
+                            .vision-mission1 .mision-text p {
+                                font-size: 20px;
+                                line-height: 28px;
+                            }
+                            .leadership-detail {
+                                padding: 45px 15px;
+                            }
+                            .leadership .col-md-12:nth-child(2n) .col-md-6:nth-child(2) {order:1;}
+.leadership .col-md-12:nth-child(2n) .col-md-6:nth-child(1) {order:2;}
+
+.leader-discrption {
+    background: #FEF6F6;
+    width: 100%;
+    padding: 30px 20px;
+    position: static;
+    margin-top: -70px;
+}
+
+section.leadeship-detail-panel h5 {
+    text-align: center;
+    font-size: 26px;
+    margin-bottom: 100px;}
+    .short-profile {
+        width: 100%;
+        font-family: Merriweather,serif;
+        font-style: italic;
+        color: #fff;
+        font-size: 21px;
+        padding: 30px 0;
+        line-height: 27px;
+        font-weight: 300;
+    }
+    .short-profile p {
+        font-size: 16px;
+    }
+    section.leadeship-detail-panel {
+        min-height: inherit;
+    }
+    section.about4 {
+        padding: 30px;
+    }
+    .award-text1 {
+        position: static;
+        bottom: 25px;
+        background: rgb(255 255 255 / 60%);
+        padding: 30px 0;
+        width: 100%;
+        right: 22px;
+    }section.award-panel1 p {
+        font-size: 24px;
+        color: #fff;
+        font-weight: 300;
+        padding: 10px 15px 50px;
+        line-height: 32px;
+    }
+    section.award-panel1 {
+        background: #1F73B7;
+        margin: 100px 0 50px;
+        text-align: center;
+    }
+    section.award-panel2 ul li {
+        position: relative;
+        display: inline-block;
+        width: 100%;
+        margin-right: 0;
+        vertical-align: top;
+        padding: 20px 30px;
+        padding-right: 0px;
+    }
+    section.award-panel3 ul li {
+        position: relative;
+        display: inline-block;
+        width: 100%;
+        margin-right: 0;
+        vertical-align: top;
+        padding: 10px 30px;
+        padding-right: 0px;
+        color: #fff;
+    }
+    .award-text2 {
+        padding: 40px 15px;
+    }
+    .award-text3 h2 {
+        font-size: 20px;
+        font-weight: bold;
+        line-height: 28px;
+        margin: 30px 0;
+    }
+    section.award-panel4 ul li {
+        position: relative;
+        display: inline-block;
+        width: 100%;
+        margin-right: 0;
+        vertical-align: top;
+        padding: 8px 26px;
+        padding-right: 0px;
+    }
+    section.award-panel5 p {
+        font-size: 24px;
+        color: #fff;
+        padding: 40px 0px 40px;
+        line-height: 32px;
+        margin: 0px;
+    }
+    img.mg-50 {
+        position: relative;
+        top: 0;
+    }
+    section.award-panel5 {
+        background: #1F73B7;
+        margin-bottom: 15px;
+    }
+    .award-text4 ul {
+        min-height: inherit;
+    }
+    .award-text4 {
+        background: #FEF6F6;
+        padding: 30px;
+        min-height: inherit;
+        height: 100%;
+    }
+    section.award-panel6 ul li {
+   
+        margin-right: 0;
+   
+    }
+    section.award-panel3 {
+        background: #182548;
+        margin: 60px 0 50px;
+    }
+
+    section.mandatory-dis.regulatory .mandate-pdf {
+
+        min-height: inherit;
+       
+    }
+    section.mandatory-dis.regulatory .mandate-pdf p {
+
+        font-size: 14px;
+    }
+
+    .social-text1 {
+        position: static;
+        top: 50px;
+        background: rgb(31 115 183 / 80%);
+        padding: 30px;
+        width: 100%;
+        right: 50px;
+    }
+    section.csr-sec-reno {
+        padding: 70px 0px 0;
+        position: relative;
+    }
+    .social-text2 {
+        margin: 30px 0 0;
+        padding: 0;
+    }
+    section.social-impact2 {
+        background: #182548;
+        margin: 50px 0 0;
+        padding: 70px 0 30px;
+    }
+    .social-impact3 h2 {
+        font-size: 24px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .social-impact3 .row.mb-5 {
+        margin-bottom: 0px!Important;
+    }
+    section.social-impact4 h2 {
+        font-size: 30px;
+        text-align: center;
+        margin-bottom: 24px;
+        font-family: Merriweather,serif;
+        color: #fff;
+    }
+    section.social-impact4 {
+        background: #1F73B7;
+        margin-bottom: 15px;
+        padding: 30px 0;
+    }
+    img.mt-50 {
+        position: relative;
+        top: 0;
+    }
+    .social-text8 p {
+        color: #fff;
+        padding: 30px 0px 0;
+        line-height: 28px;
+    }
+    .social-content {
+        width: 100%;
+        padding: 30px;
+        background: rgb(255 230 3 / 60%);
+        position: static;
+    
+    }
+    section.social-impact5 {
+        padding: 0;
+    }
+    .social-text9 {
+        width: 100%;
+        padding: 30px;
+        background: rgb(24 37 72 / 85%);
+        position: static;
+    }
+    .social-text9 h3 {
+        color: #fff;
+        margin-bottom: 30px;
+        font-size: 21px;
+        line-height: 32px;
+    }
+    .social-text10 {
+        padding: 30px 0;
+    }
+    section.social-impact5 .row.mt-4 {
+        margin-top: 0px!important;
+    }
+
+    section.facult-det-01 {
+        padding-top: 0;
+        padding-bottom: 60px;
+    }
+    .faculty-rgt {
+        padding-left: 15px;
+    }
+    section.facult-det-01 img {
+        margin-bottom: 20px;
+    }
+    .fac-link ul li img {
+        margin: 0;
+    }
+    .faculty-tab .card-header {
+        background: #0a2543;
+    }
+    
+    .faculty-tab .card-header a.collapsed {
+        color: #fff;
+    }
+    .facult-det-02 .faculty-tab .collapse {
+        display: block;
+    }
+
+    .placement-text {
+        position: static;
+        top: 50px;
+        left: 50px;
+        background: rgb(255 255 255 /60%);
+        padding: 30px;
+        max-width: 100%;
+    }
+    section.placement-1 {
+        padding: 50px 0;
+        background: #fef6f6;
+    }
+    .achive-list ul li h4 {
+        font-size: 45px;
+        color: #fff;
+        font-family: Oswald,sans-serif;
+        font-weight: normal;
+        margin: 20px 0 2px;
+    }
+    .achive-list ul li p {
+        color: #fff;
+        margin: 0px;
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .achive-list ul li:after {
+        content: "";
+        width: 100px;
+        height: 1px;
+        background: rgb(255 255 255 / 54%);
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        text-align: center;
+        margin: auto;
+        right: 0;
+    }
+
+    .achive-list ul li {
+        display: inline-block;
+        width: 48%;
+        vertical-align: top;
+        margin-bottom: 30px;
+        padding-bottom: 20px;
+        position: relative;
+        text-align: center;
+    }
+    .top-require .item {
+        padding: 0;
+    }
+    .placement-text9 {
+        width: 100%;
+        background: rgba(255, 230, 3, 1);
+        position: relative;
+        z-index: 9;
+        padding: 30px;
+        top: 0;
+    }
+    section.placement-5 {
+        margin: 35px 0;
+    }
+    section.placement-6 h2 {
+        text-align: center;
+        font-family: Merriweather,serif;
+        font-size: 24px;
+        font-weight: bold;
+        margin: 0;
+        color: #000;
+        padding: 0px 24px 60px;
+        position: relative;
+    }
+    section.placement-6 h2:before{display: none;}
+    section.placement-6 h2:after{display: none;}
+    .placement-activity-1 h2 {
+        font-size: 18px;
+        line-height: 28px;
+        margin-bottom: 30px;
+    }
+    section.placement-3 h2 {
+        padding: 40px 15px 40px;
+        font-family: Merriweather,serif;
+        text-align: center;
+        font-size: 24px;
+        font-weight: bold;
+        line-height: 32px;
+    }
+    section.placement-3 ul li img {
+        display: none;
+    }section.placement-3 ul li {
+        display: inline-block;
+        width: 100%;
+        vertical-align: top;
+        margin-bottom: 30px;
+        position: relative;
+        margin-right: 0;
+    }
+    .placemnt-tex5 h5{left:0px;}
+    .step-text ul {
+        margin: 20px 0;
+    }
+    section.placement-2 {
+        padding: 0;
+    }
+    .placement-text3 {
+        padding: 0 40px 32px;
+        background: #fff;
+        margin-top: 0;
+    }
+    .placemnt-blok2 .col-md-5 {
+        padding-left: 15px;
+    }
+    .placemnt-blok2 .col-md-7 {
+        padding-right: 15px;
+        padding-top: 15px;
+    }
+    section.placement-2.new-place-2 .placement-text3 {
+        padding: 30px;
+    }
+    section.placement-4 .col-md-4.pr-0, section.placement-4 .col-md-4.pl-0 {
+        padding: 0 15px!important;
+    }
+    section.placement-4 {
+
+        padding: 40px 0;
+    }
+    .container.research_cont .school-menu-list.research_menu1 ul li {
+        margin: 5px 11px;
+        font-size: 15px;
+    }
+    .placement-text2 ul:before, .placement-text2 ul:after{display: none;}
+    .placement-text2 ul {
+        display: block;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        text-align: center;
+    }
+
+
+.placement-text2 ul li {
+    max-width: 38%;
+    display: inline-block;
+    margin: 10px 21px;
+    vertical-align: top;
+}
+.placement-text2 {
+    padding: 24px 0;
+}
+.place-new-panel h2 {
+
+    font-size: 24px;
+
+
+}
+section.placement-4.corporate_sec .placement-text7 {
+    height: inherit;
+}section.placement-4.corporate_sec .placement-text8 {
+    background: #fff;
+    padding: 30px 20px;
+    height: 100%;
+}
+.placement-text8 h3 {
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 20px;
+}
+section.placement-5 h2 {
+    text-align: center;
+    font-family: Merriweather,serif;
+    font-size: 28px;
+    font-weight: bold;
+    margin: 50px 0 0;
+    color: #000;
+    padding: 10px 10px;
+}
+
+.team-bg {
+    background: #ffff;
+    padding: 12px 0px;
+}
+
+h2.hap-title {
+    font-size: 28px;
+    text-align: center;
+    color: #000;
+    font-family: 'Merriweather', serif;
+    margin: 20px 0;
+}
+.logo-panel ul li {
+    float: left;
+    border: 1px solid #ddd!important;
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+}
+        
+            section.apply-admission-for.career-accord .career-panel {
+                padding: 0px;
+            }
+            section.tell-us:after{height: 100%;}
+
+            section.contact-sec2 {
+                margin-top: 0;
+                padding-bottom: 0;
+            }
+
+            section.news-sec2 {
+                padding-bottom: 30px;
+            }
+            .newsht-det {
+                padding: 15px 0;
+            }
+            .newsht-det h3 {
+                font-size: 14px;
+                line-height: 20px;
+                font-weight: normal;
+            }
+
+            .media_padd_top {
+                padding-top: 15px;
+            }
+
+
+            section.news-detail h2 {
+                font-family: 'Merriweather', serif;
+                font-size: 24px;
+                font-weight: normal;
+                margin: 10px 0 10px;
+                color: #000;
+            }
+
+            .gallery-list ul li {
+                width: 46.333%;
+                margin-right: 3%;
+                box-shadow: 0px 0px 10px #ddd;
+                margin-bottom: 45px;
+            }
+            .gallery-list .gallery-img {
+                overflow: hidden;
+                height: inherit;
+                width: 100%;
+                object-fit: contain;
+            }
+            .gallery-list ul li:nth-child(3n+0) {
+                margin-right: 3%;
+            }
+            section.news-sec3 .pr-4 {
+                padding: 15px!important;
+            }
+
+
+        }
+
+
+        
+    @media screen and (max-width:820px) and (min-width:768px){
+        section.scholarship-3 {
+            padding: 40px 0 40px;
+        }
+
+        .newsvt-det {
+            background: #fef5f6;
+            padding: 30px 14px !important;
+        }
+        .newsvt-det h3 {
+            font-size: 14px;
+            font-weight: normal;
+            color: #000;
+            margin-bottom: 15px;
+            line-height: 23px;
+        }
+
+
+        .placement-text9 {
+            width: 453px;
+            background: rgba(255, 230, 3, 1);
+            position: relative;
+            z-index: 9;
+            padding: 30px;
+            top: 0;
+        }
+
+        .facult-det-02 .faculty-tab .collapse {
+            display: none;
+        }
+
+        .facult-det-02 .faculty-tab .show .collapse {
+            display: block;
+        }
+        section.mandatory-dis.regulatory .mandate-pdf {
+            min-height: inherit;
+            position: static;
+        }
+
+        .mision-text {
+            padding: 30px;
+            background: #FFE603;
+            width: 350px;
+            left: -190px;
+            position: relative;
+            top: 0;
+        }
+
+        .odd-box {
+            background: rgb(31 115 183 / 16%);
+            padding: 30px 20px;
+            margin-bottom: 30px;
+        }
+
+        section.jnu-glance-6 h3 {
+            font-size: 18px;
+            margin: 20px 0;
+        }
+
+        .world-faculty ul li {
+            position: relative;
+            padding: 2px 19px;
+            font-size: 14px;
+        }
+
+
+        .world-faculty {
+            background: #ffe603;
+            position: relative;
+            width: 100%;
+            left: 0;
+            padding: 18px;
+            top: 0;
+        }
+
+        .about-university-3 ul li {
+            margin: 0 16px;
+            width: 28%;
+            text-align: center;
+        }
+
+
+
+        section.about-university-2 {
+         
+            padding: 30px 0;
+            margin: 30px 0;
+        }
+
+
+
+        section.about-university-1 .academic-exce {
+            margin: 0;
+        }
+
+
+        .repoting-block1 {
+            width: 220px;
+            height: 220px;
+            background: rgba(254, 246, 246, 1);
+            border-radius: 50%;
+            margin: 0 auto 50px;
+            text-align: center;
+            padding: 65px 0;
+        }
+
+
+        section.health-saftey-3 h2 {
+            font-size: 18px;
+        
+            padding: 0;
+ 
+            margin-bottom: 10px;
+        }
+
+
+
+        section.covid-2 {
+            background: linear-gradient( 
+        0deg
+         ,rgb(255 255 255 / 0) 3%,rgb(254 246 246) 0%);}
+
+         section.covid-3 ul li {
+     
+            font-size: 14px;
+            font-weight: normal;
+        }
+
+
+        section.home-section-3.gymnasium-2 .col-6:nth-child(4) {
+            display: block;
+        }
+        section.home-section-3.gymnasium-2 p {
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 26px;
+            padding: 0;
+            text-align: left;
+        }
+        section.home-section-3.gymnasium-2 .experience {
+            padding: 30px 0px 0 30px;
+        }
+
+
+        section.home-section-3.sports2 .experience p {
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 25px;
+            text-align: left;
+            padding: 0 20px;
+        }
+
+
+        section.home-section-3.beyond3 .experience p {
+            font-weight: normal;
+            font-size: 14px;
+            line-height: 24px;
+            text-align: left;
+            padding: 0 0px 0 20px;
+        }
+        section.home-section-3.beyond3 .experience h2 {
+            font-size: 30px;
+            text-align: left;
+            margin-bottom: 20px;
+        }
+        section.home-section-3.beyond3 .col-6:nth-child(4) {
+            display: block;
+        }
+
+        .beyond-panel1.left-text-move {
+                  height: inherit;
+        }
+
+
+        .our-cafe h3 {
+            font-size: 16px;
+            font-weight: bold;
+            margin-bottom: 11px;
+        }
+        .our-cafe ul li {
+            position: relative;
+            padding: 2px 0px 2px 19px;
+            width: 100%;
+            display: inline-block;
+            vertical-align: top;
+            font-size: 14px;
+        }
+        section.cafeteria-offer ul li {
+            display: inline-block;
+            color: #fff;
+            margin-right: 16px;
+            border-right: 0px;
+            padding-right: 0;
+            min-height: inherit;
+            width: 22%;
+            vertical-align: top;
+            margin-bottom: 20px;
+        }
+        section.cafeteria-offer ul {
+            display: inline-block;
+            vertical-align: top;
+            width: 100%;
+        }
+        section.cafeteria-offer2 ul li {
+            display: inline-block;
+            color: #333;
+            border-left: 0px;
+            padding: 20px 0px;
+            font-size: 16px;
+            font-weight: bold;
+            width: 21%;
+            min-height: inherit;
+            margin-right: 20px;
+            vertical-align: top;
+        }
+
+
+        .accom-rtv .col-md-5 {
+            -ms-flex: 0 0 100%;
+            flex:0 0 100%;
+            max-width: 100%;
+        }
+
+        section.accomdation-1.accom-1 ul {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: center;
+        }
+
+        section.accomdation-1.accom-1 ul li {
+            padding: 0px 15px 10px;
+            border-left: 0px;
+            font-size: 14px;
+            font-weight: 700;
+            text-align: center;
+        }
+        section.home-section-3.innovation_head h3 {
+            font-size: 30px;
+            color: #fff;
+            padding-bottom: 00;
+            margin-bottom: 30px;
+        }
+        
+        section.home-section-3.innovation_head .experience p {
+            font-size: 13px;
+            font-weight: normal;
+            padding: 0;
+            text-align: left;
+            line-height: 20px;
+        }
+        section.home-section-3.innovation_head .experience {
+            position: relative;
+            padding: 0 9px;
+        }
+
+        .campus-box {
+            border: 1px solid #D8D8D8;
+            padding: 30px 16px;
+            min-height: inherit;
+            margin-bottom: 25px;
+        }
+
+        
+        .eastate h3 {
+            display: inline-block;
+            font-weight: bold;
+            font-size: 30px;
+            vertical-align: top;
+            margin-bottom: 20px;
+        }
+        
+        section.rsearch-consultancy .research-comitee h4 {
+            margin: 0px 0 30px;
+        }
+        section.research-highlight-box ul {
+            background: #FEF6F6;
+            padding: 30px 15px;
+            height: 100%;
+        }
+        section.research-highlight-box ul li p {
+            margin: 0px;
+            font-size: 13px;
+        }
+        section.research-highlight-box ul li h4 {
+            font-size: 14px;
+            font-weight: bold;
+            min-height: 40px;
+        }
+
+        .text-diff img {
+            margin-right: 6px;
+            margin-bottom: 0;
+            float: left;
+        }
+
+
+        .filter ul li {
+            padding: 0px 10px;
+            width: 44%;
+            margin-bottom: 10px;
+        }
+
+        section.school-sylabus.other_data .help-with-admission ul {
+            margin-bottom: 30px;
+        }
+
+        section.scholarship-4 h2 {
+            color: #fff;
+            font-size: 24px;
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+        .scholarship-4 .education p.clr-white {
+            color: #fff;
+            margin-bottom:20px;
+        }
+        .faculty-list ul li img {
+            transition: transform 1s;
+            width: 100%;
+        }
+
+        section.scholarship-3 .col-md-5 {
+            display: none;
+        }
+        
+        section.scholarship-3 .col-md-7 {
+            -ms-flex: 0 0 100%;
+            flex: 0 0 100%;
+            max-width: 100%;
+        }
+        
+        section.scholarship-4 .col-md-7 {   -ms-flex: 0 0 100%;
+            flex: 0 0 100%;
+            max-width: 100%;}
+            section.scholarship-4 .col-md-5 {   -ms-flex: 0 0 100%;
+            flex: 0 0 100%;
+            max-width: 100%;}
+
+
+
+        .inter-01 .col-md-5.pr-0 {
+            padding: 0px!important;
+        }
+        
+       .inter-01 .col-md-7.pl-0 {
+            padding: 0px!important;
+        }
+
+        .academic-infra ul li {
+            margin: 0 20px;
+            vertical-align: top;
+            width: 19%;
+            text-align: center;
+        }
+
+        .syllabus-tab div#content {
+            float: right;
+            width: 78%;
+          
+            border-radius: 0px;
+        }
+        .dates-table a {
+            background: #FFE603;
+            padding: 3px 13px;
+            display: inline-block;
+            border-radius: 20px;
+            color: #000;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-weight: bold;
+            font-size: 12px;
+        }
+        .dates-table .under_gra {
+            text-align: center;
+            padding: 30px 0;
+            background: #fef6f6;
+            line-height: 1.3;
+            font-size: 16px;
+        }
+        section.anti-2 ul li {
+            display: inline-block;
+            width: 48%;
+            border-bottom: 1px solid #ddd;
+            padding: 10px 22px;
+            margin-right: 23px;
+            position: relative;
+            font-size: 14px;
+        }
+        section.online-2 {
+            margin-bottom: 0;}
+            section.online-3 ul li {
+                text-align: center;
+                display: inline-block;
+                width: 32%;
+                margin: 0px 0 50px;
+                vertical-align: top;
+            }
+            .container.clearfix p.btn.btn-primary.last {
+                position: static;
+                bottom: 0;
+                left: 0;
+                background: #FFE603;
+                border: solid 1px #FFE603;
+                color: #000;
+                padding: 5px 25px;
+                font-size: 14px;
+                text-align: center;
+                margin: auto;
+                width: 50%;
+                display: block;
+            }
+            .campus-box h2 {
+                font-size: 18px;}
+
+                section.medical-help-2 .medical-text2 {
+                    width: 100%;
+                    top: inherit;
+                    padding: 20px;
+                }
+
+                section.medical-help-2  .medical-text3 {
+                    padding: 0px 0px;
+                }
+
+                .media_padd_top {
+                    padding-top: 10px;
+                }
+           
+                .press-slide .col-md-8 {
+                    order: 0;
+                }
+                section.student-corner-1 blockquote {
+                    text-align: center;
+                    font-size: 24px;
+                    margin-bottom: 30px;
+                    line-height: 36px;
+                    padding: 0 20px;
+                }
+                .std-i1 h4 {
+                    position: absolute;
+                    bottom: 30px;
+                    color: #fff;
+                    left: 0;
+                    z-index: 9999;
+                    font-size: 20px;
+                    padding: 20px 20px 0;
+                }
+
+
+    }
+
+     
+    
+        @media only screen and (max-width:320px){
+
+            .faculty-info h4 {
+                font-size: 15px;
+            }
+            .inner-header .main-menu li.searchnav {
+                border-right: 1px solid #ddd;
+                top: 16px;
+            }            
+            .facilities-box p a {
+                position: absolute;
+                bottom: 16px;
+                color: #fff;
+                left: 0;
+                font-size: 17px;
+                z-index: 999;
+                width: 100%;
+                padding: 0px 45px 0 20px;
+            }
+    
+    .main-menu li.searchnav {
+        top: 13px;}
+        .main-menu ul li.mobile_menu_sec {
+            top: 15px;
+        }
+        .programme-list {
+            padding: 10px 18px 30px;}
+            .experience p {
+            
+                padding: 0 15px 20px;
+            }
+    
+            .mobile-view-panel h5 {
+           
+                font-size: 60px;
+             
+            }
+    
+            .mobile-view-panel p {
+               
+                font-size:14px;
+               
+            }
+            .find-out a {
+           
+                font-size: 12px;
+                width: 90%;
+            }
+            .happing-content2 p {
+        
+                font-size: 14px;
+                line-height: 20px;
+            }
+            .footer-menu .col-3:last-child ul {
+                display: block;
+                background: #000;
+                padding: 10px 4px;
+                margin-top: 20px;
+            }
+      
+            .facilities-box p{font-size: 14px;}
+            .mobile-view-panel h5 {
+                font-size: 50px;
+            }
+
+            .footer-menu ul li a {
+     
+                font-size: 13px;
+    
+            }
+         
+
+
+            section.scholarship-4 {
+                background: linear-gradient( 
+            0deg
+             ,#fff 54% ,#1F73B7 35%);
+                padding-top: 15px;
+            }
+            .text-diff {
+                font-size: 16px;
+                line-height: 28px;
+                margin-bottom: 15px;
+            }
+            section.our-pedegogy {
+                background: linear-gradient(
+            0deg
+            ,rgb(255 255 255 / 0) 25%,#f3f3f3 32%);
+            }
+
+            .auditorium-text {
+                width: 400px;
+                padding: 30px;
+                background: rgb(255 255 255 / 74%);
+                position: absolute;
+                top: 8px;
+                right: 40px;
+            }
+
+            .existing-customer .auditorium-text h3 {
+                font-size: 55px;
+                font-family: Oswald,sans-serif;
+            }
+            section.apply-admission-for.career-accord .career-panel {
+                padding: 0px;
+            
+    
+
+                            }
+                            .regulation-1 ul li {
+                                border-bottom: 1px solid #ddd;
+                                padding: 10px 0;
+                                width: 100%;
+                                display: inline-block;
+                                margin-right: 0;
+                                vertical-align: top;
+                                min-height: inherit;
+                                font-size: 16px;
+                            }
+                            .regulation-1 {
+                                padding: 10px;
+                            }
+                            .regulation-1 ul li img {
+                                width: 50px;
+                                height: 50px;
+                                margin: 0 18px 30px 0;
+                                float: left;
+                            }
+                            section.publication-box blockquote {
+                                font-size: 22px;
+                                text-align: center;
+                                margin-bottom: 30px;
+                                line-height: 32px;
+                            }
+
+                            section.rsearch-consultancy .research-comitee blockquote {
+                                margin-bottom: 30px;
+                            }
+
+                            section.library-1 blockquote {
+                                font-size: 18px;
+                                padding: 0;
+                                line-height: 32px;
+                                text-align: center;
+                            }
+                            .library-text1 {
+                                position: static;
+                                top: 50px;
+                                right: 50px;
+                                background: rgb(251 239 239 / 60%);
+                                padding: 30px;
+                                width: 100%;
+                                text-align: left;
+                            }
+                            .library-campus-text1 {
+                                position: static;
+                                top: 50px;
+                                left: 50px;
+                                background: rgb(249 237 237 / 60%);
+                                padding: 30px;
+                                width: 100%;
+                            }
+                          
+                        
+                            section.library-4 ul {
+                                display: block;
+                                align-items: center;
+                                justify-content: center;
+                                flex-wrap: wrap;
+                            }
+                            section.library-4 ul li {
+                                padding: 0 5px;
+                                width: 45%;
+                                display: inline-block;
+                            }
+                            section.library-5 {
+                                background: #182548;
+                                padding: 30px 20px;
+                                width: 100%;
+                            }
+                           
+                            .library-text5 ul li {
+                  
+                                padding-left: 14px;
+                            }
+                            .library-7 ul li h5 {
+                                font-size: 22px;
+                                font-weight: bold;
+                            }
+                            .library-7 ul li {
+                                display: inline-block;
+                                width: 47.5%;
+                                vertical-align: top;
+                                color: #000;
+                                margin-bottom: 44px;
+                                border-left: 1px solid #1F73B7;
+                                padding-left: 21px;
+                            }
+                            .library-7 {
+                                padding: 15px;
+                                width: 100%;
+                                margin: 0 auto;
+                            }
+                            section.library-6 {
+                                padding: 70px 0 25px;
+                                width: 100%;
+                            }
+                            .library-8 {
+                                padding: 30px 15px;
+                                background: #FEF6F6;
+                                margin-top: 50px;
+                                width: 100%;
+                            }
+                            .library-text10 {
+                                width: 100%;
+                                background: #fff;
+                                padding: 30px 15px;
+                                position: static;
+                              
+                            }
+                            .library-9 ul {
+                                margin: 4px 15px;
+                            }
+                            .library-9 ul li {
+                            
+                                padding: 8px 25px;
+                                 padding-right: 0;
+                            }
+                            .library-text10 p {
+                                font-size: 18px;
+                                line-height: 26px;
+                        
+                            }
+                            .library-10 {
+                                padding: 15px;
+                                width: 100%;
+                            }
+                            section.library-11 {
+                                background: #182548;
+                                padding: 15px;
+                                width: 100%;
+                            }
+                            .white-bg {
+                                padding: 35px 20px;
+                                background: #fff;
+                                height: 100%;
+                            }
+                            .yellow-bg {
+                                background: #FFE603;
+                                padding: 27px;
+                                margin: 15px 0 15px;
+                            }
+
+                            .auditorium-text {
+                                width: 400px;
+                                padding: 30px 20px;
+                                background: rgb(255 255 255 / 74%);
+                                position: absolute;
+                                top: 50px;
+                                right: 50px;
+                            }
+
+                            section.upcoming-auditorium {
+                                text-align: center;
+                                padding: 30px 10px 50px;
+                                background: #1F73B7;
+                            }
+                            section.upcoming-auditorium p {
+                                color: #fff;
+                                font-weight: 300;
+                                padding: 0;
+                                font-size: 15px;
+                            }
+                            section.accomdation-1 blockquote {
+                                text-align: center;
+                                font-size: 18px;
+                                line-height: 30px;
+                                margin-bottom: 12px;
+                            }
+
+                            .accomdation-1 .auditorium-text {
+                                position: static;
+                                width: 100%;
+                                padding: 15px 0;
+                            }
+                            .auditorium-pic2 .auditorium-text p {
+                                margin: 0;
+                                padding-bottom: 0;
+                            }
+                            .existing-customer {
+                                padding: 0;
+                            }
+
+                            .sports3 p {
+                                text-align: center;
+                                margin-bottom: 40px;
+                                padding: 0 10px;
+                            }
+                            .sports3 h4 {
+                                font-family: Merriweather,serif;
+                                font-size: 24px;
+                                text-align: center;
+                                margin-bottom: 30px;
+                                line-height: 32px;
+                            }
+                            section.innovation_sec {
+                                background: #f3f3f3;
+                            }
+                            section.innovation_sec h4 {
+                                padding: 30px 0 30px;
+                                font-size: 18px;
+                                line-height: 26px;
+                            }
+                            section.innovation_sec_slider {
+                                margin: 30px 0;
+                            }
+                            
+.owl-carousel.owl-theme.innovation-carousel .owl-nav button span {
+    background: #6e787d;
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    padding: 10px;
+    box-shadow: inherit;
+    outline: 0;
+    text-indent: -9999px;
+    position: relative;
+    margin-right: 5px;
+    border-radius: 50%;
+}
+
+.owl-carousel.owl-theme.innovation-carousel .owl-nav button span:after {
+    width: 7px;
+    content: "";
+    height: 7px;
+    border-left: 1px solid rgb(255 255 255)!important;
+    border-bottom: 1px solid rgb(255 255 255)!important;
+    -webkit-transform: rotate( 
+40deg
+);
+    -moz-transform: rotate( 40deg);
+    -ms-transform: rotate(40deg);
+    -o-transform: rotate(40deg);
+    transform: rotate(
+40deg
+);
+    position: absolute;
+    top: 6px;
+    right: 5px;
+    display: inline-block;
+    text-indent: 0px;
+    padding: 2px;
+    text-align: right;
+}
+
+.owl-carousel.owl-theme.innovation-carousel button.owl-next span:after {
+    -webkit-transform: rotate( 
+-140deg
+);
+    -moz-transform: rotate( -140deg);
+    -ms-transform: rotate( -140deg);
+    -o-transform: rotate( -140deg);
+    transform: rotate( 
+-140deg
+);
+    right: 8px;
+}
+
+.owl-carousel.owl-theme.innovation-carousel .owl-nav {
+    position: absolute;
+    top: 40%;
+    width: 100%;
+}
+
+.owl-carousel.owl-theme.innovation-carousel .owl-nav  button.owl-next {
+  float:right;
+}
+section.value_add p {
+    padding: 0 10px;
+}
+section.value_add blockquote {
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+.box_list {
+    max-width: 100%;
+    margin: 0px auto;
+}
+.box_list .col {
+    width: 100%;
+}
+
+.box_list .row {
+    flex-wrap: wrap;
+    display: block;
+    text-align: center;
+}
+
+.box_list2 img {
+    display: none;
+}
+
+.box_list2 br {
+    display: none;
+}   
+.border_boxes {
+
+    padding: 40px 0 40px;
+    margin-top: 60px;
+}                
+.box_list {
+    max-width: 100%;
+    margin: 0px auto;
+}
+.inn_data{text-align: center;position: static;margin: 20px 0;}
+section.value_add {
+
+padding: 50px 0 50px;
+
+}
+
+    section.home-section-3.innovation_head h3 {
+        font-size: 28px;
+        color: #fff;
+        padding-bottom: 00;
+        }
+        section.home-section-3.innovation_head .experience p {
+            font-size: 14px;
+            font-weight: 600;
+            padding: 0;
+        }
+
+        section.home-section-3.innovation_head .facilities-box p {
+            position: absolute;
+            bottom: 0;
+            color: #fff;
+            left: 0;
+            font-size: 16px;
+            z-index: 999;
+            right: 0;
+            text-align: left;
+            padding: 0 10px;
+        }
+        section.home-section-3.innovation_head .col-6:nth-child(4){display:block}
+        .accom-img-rgt img {
+            height: inherit;
+            margin-top: 30px;
+        }
+        .accom-img-rgt {
+            position: static;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            max-width: 100%;
+        }
+        section.acoom-2 {
+            background: #fff7f7;
+            margin: 50px 0;
+            margin-bottom: 0;
+        }
+
+        .about-carousel1 ul li p {
+            text-align: left;
+            margin: 0px;
+            padding-right: 0;
+        }
+        .about-carousel1 ul li h2 {
+            font-size: 50px;}
+
+            section.accom-4 h2 {
+                font-size: 24px;}
+
+                section.accom-4 blockquote {
+                    font-size: 18px;
+                    margin-bottom: 50px;
+                    padding: 0;
+                    line-height: 27px;
+                }
+                .residence-content h4 {
+                        width: 100%;
+              
+                    margin-left: 0;
+               
+                }
+                .residence-content img{margin-bottom: 20px;}
+                .residence-content {
+                    margin: 20px 0;
+                    text-align: center;
+                }
+                section.explore-student1 h2 {
+          
+margin-bottom: 25px;
+          
+font-size: 28px;
+          
+}
+                .text-1 {
+                    position: static;
+                    padding: 30px 0 0;
+                    background: rgb(255 255 255 / 60%);
+                    width: 100%;
+                }
+                .girl-room {
+                    position: relative;
+                    margin-bottom: 0;
+                }
+        } margin: 20px 0;
+                    text-align: center;
+                }
+                section.explore-student1 h2 {
+          
+margin-bottom: 25px;
+          
+font-size: 28px;
+          
+}
+                .text-1 {
+                    position: static;
+                    padding: 30px 0 0;
+                    background: rgb(255 255 255 / 60%);
+                    width: 100%;
+                }
+                .girl-room {
+                    position: relative;
+                    margin-bottom: 0;
+                }
+                .other-room {
+                    margin:
